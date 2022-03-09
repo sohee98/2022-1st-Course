@@ -37,6 +37,21 @@
 |        | 22.03.08 | Logic        |
 | Week 2 | 22.03.10 |              |
 
+* **Assignments**
+
+  |        | Due Date  | Assignments  |                         |
+  | ------ | --------- | ------------ | ----------------------- |
+  | Week 1 | 3.10 Thur | HW 1 - Logic | :ballot_box_with_check: |
+  |        |           |              |                         |
+  |        |           |              |                         |
+
+* **Test**
+
+  |        | Date      | Contents |
+  | ------ | --------- | -------- |
+  | Week 1 | 3.10 Thur | Logic    |
+  |        |           |          |
+
 
 
 ### □ Technical Writing
@@ -46,7 +61,7 @@
 |        | Date     | Contents                                                     |
 | ------ | -------- | ------------------------------------------------------------ |
 | Week 1 | 22.03.03 | Course Introduction<br />**Introduction to Academic Articles** |
-|        | 22.03.08 |                                                              |
+|        | 22.03.08 | Introduction to genres, English paragraph review             |
 | Week 2 | 22.03.10 |                                                              |
 
 * **Assignments**
