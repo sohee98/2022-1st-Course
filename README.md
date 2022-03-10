@@ -19,11 +19,11 @@
 
 > 김종권 교수님 /  화,목 2교시
 
-|        | Date     | Contents        |
-| ------ | -------- | --------------- |
-| Week 1 | 22.03.03 | Introduction    |
-|        | 22.03.08 | RTS / CTS + ACK |
-| Week 2 | 22.03.10 |                 |
+|        | Date     | Contents                                            |
+| ------ | -------- | --------------------------------------------------- |
+| Week 1 | 22.03.03 | Introduction<br />Wireless Network - Protocal & MAC |
+|        | 22.03.08 | Wireless Links & WLAN                               |
+| Week 2 | 22.03.10 | IOT                                                 |
 
 
 
@@ -31,11 +31,11 @@
 
 >  김종권 교수님 /  화,목 4교시
 
-|        | Date     | Contents     |
-| ------ | -------- | ------------ |
-| Week 1 | 22.03.03 | Introduction |
-|        | 22.03.08 | Logic        |
-| Week 2 | 22.03.10 |              |
+|        | Date     | Contents                |
+| ------ | -------- | ----------------------- |
+| Week 1 | 22.03.03 | Introduction            |
+|        | 22.03.08 | Logic                   |
+| Week 2 | 22.03.10 | Logic - HW 1 discussion |
 
 * **Assignments**
 
@@ -45,7 +45,7 @@
   |        |           |              |                         |
   |        |           |              |                         |
 
-* **Test**
+* **Quiz**
 
   |        | Date      | Contents |
   | ------ | --------- | -------- |
