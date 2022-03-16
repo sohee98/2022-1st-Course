@@ -47,7 +47,7 @@
   |        | Due Date  | Assignments  |                         |
   | ------ | --------- | ------------ | ----------------------- |
   | Week 1 | 3.10 Thur | HW 1 - Logic | :ballot_box_with_check: |
-  | Week 2 | 3.18 Fri  | HW 2         |                         |
+  | Week 2 | 3.18 Fri  | HW 2 - DFA   |                         |
   |        |           |              |                         |
 
 * **Quiz**
@@ -55,7 +55,7 @@
   |        | Date      | Contents |
   | ------ | --------- | -------- |
   | Week 1 | 3.10 Thur | Logic    |
-  | Week 2 | 3.18 Fri  |          |
+  | Week 2 | 3.18 Fri  | DFA      |
 
 
 
@@ -75,6 +75,6 @@
     |        | Due Date  | Assignments                                                  |                         |
     | ------ | --------- | ------------------------------------------------------------ | ----------------------- |
     | Week 1 | 3.10 Thur | Read - "Writing journal articles" <br />Write - What I want to achieve from this course | :ballot_box_with_check: |
-    | Week 2 | 3.17 Thur | Read - “The Baldwin Formula for writing a scientific paper and reviewing papers” <br />Write - research topic for final paper |                         |
+    | Week 2 | 3.17 Thur | Read - “The Baldwin Formula for writing a scientific paper and reviewing papers” <br />Write - research topic for final paper | :ballot_box_with_check: |
     |        |           |                                                              |                         |
 
