@@ -14,6 +14,14 @@
 | Week 2 | 22.03.10 | 3. Key Applications for Sensor Data Science: Context-Aware & Persuasive Computing |
 |        | 22.03.15 | 4. Data Visualization for Sensor Data Science <br />Colab Practice #1. Plotly |
 | Week 3 | 22.03.17 | 5. Datasets Introduction - K-EmoPhone, K-EmoCon, CrowdSignal<br />Colab Practice #2. datasets |
+|        | 22.03.22 |                                                              |
+
+* **Assignments**
+
+  |        | Due Date | Assignments               |                         |
+  | ------ | -------- | ------------------------- | ----------------------- |
+  | Week 3 | 3.21 Mon | HW 1 - Data_Visualization | :ballot_box_with_check: |
+  |        |          |                           |                         |
 
 
 
@@ -27,6 +35,7 @@
 |        | 22.03.08 | Wireless Links & WLAN                               |
 | Week 2 | 22.03.10 | IOT                                                 |
 |        | 22.03.15 | Neural Network                                      |
+| Week 3 | 22.03.17 | Fundamentals of Water Electrolysis                  |
 
 
 
@@ -40,14 +49,14 @@
 |        | 22.03.08 | Logic                   |
 | Week 2 | 22.03.10 | Logic - HW 1 discussion |
 |        | 22.03.15 | Deterministic FA        |
-|        | 22.03.18 | DFA - HW 2 discussion   |
+| Week 3 | 22.03.18 | DFA - HW 2 discussion   |
 
 * **Assignments**
 
   |        | Due Date  | Assignments  |                         |
   | ------ | --------- | ------------ | ----------------------- |
   | Week 1 | 3.10 Thur | HW 1 - Logic | :ballot_box_with_check: |
-  | Week 2 | 3.18 Fri  | HW 2 - DFA   |                         |
+  | Week 2 | 3.18 Fri  | HW 2 - DFA   | :ballot_box_with_check: |
   |        |           |              |                         |
 
 * **Quiz**
@@ -69,6 +78,8 @@
 |        | 22.03.08 | Introduction to genres, English paragraph review             |
 | Week 2 | 22.03.10 | Academic article structure and content<br />Introduction, body, conclusion<br />Thesis statements |
 |        | 22.03.15 | Baldwin formula for science writing<br />Research topic for final paper |
+| Week 3 | 22.03.17 |                                                              |
+|        | 22.03.22 |                                                              |
 
 * **Assignments**
 
