@@ -9,11 +9,11 @@
 
 |        | Date     | Contents                                                     |
 | ------ | -------- | ------------------------------------------------------------ |
-| Week 1 | 22.03.03 | Introduction to Sensor Data Science                          |
-|        | 22.03.08 | Sensor Data Analysis Process Overview: Mobile & Fixed Sensing Cases |
-| Week 2 | 22.03.10 | Key Applications for Sensor Data Science: Context-Aware & Persuasive Computing |
-|        | 22.03.15 | Data Visualization for Sensor Data Science <br />Colab Practice #1. Plotly |
-| Week 3 | 22.03.17 | Datasets Introduction - K-EmoPhone, K-EmoCon, CrowdSignal<br />Colab Practice #2. datasets |
+| Week 1 | 22.03.03 | 1. Introduction to Sensor Data Science                       |
+|        | 22.03.08 | 2. Sensor Data Analysis Process Overview: Mobile & Fixed Sensing Cases |
+| Week 2 | 22.03.10 | 3. Key Applications for Sensor Data Science: Context-Aware & Persuasive Computing |
+|        | 22.03.15 | 4. Data Visualization for Sensor Data Science <br />Colab Practice #1. Plotly |
+| Week 3 | 22.03.17 | 5. Datasets Introduction - K-EmoPhone, K-EmoCon, CrowdSignal<br />Colab Practice #2. datasets |
 
 
 
@@ -40,7 +40,7 @@
 |        | 22.03.08 | Logic                   |
 | Week 2 | 22.03.10 | Logic - HW 1 discussion |
 |        | 22.03.15 | Deterministic FA        |
-|        | 22.03.18 | HW 2 discussion         |
+|        | 22.03.18 | DFA - HW 2 discussion   |
 
 * **Assignments**
 
