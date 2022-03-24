@@ -15,14 +15,14 @@
 |        | 22.03.15 | 4. Data Visualization for Sensor Data Science <br />Colab Practice #1. Plotly |
 | Week 3 | 22.03.17 | 5. Datasets Introduction - K-EmoPhone, K-EmoCon, CrowdSignal<br />Colab Practice #2. Plotly |
 |        | 22.03.22 | 6. Sensor Data Collection<br />Colab Practice #3. datasets   |
-| Week 4 | 22.03.24 | 7. Handling Noise and Missing Values in Sensory Data<br />Colab Practice #4. datasets |
+| Week 4 | 22.03.24 | 7. Handling Noise and Missing Values in Sensory Data<br />Colab Practice #4. outliers |
 
 * **Assignments**
 
   |        | Due Date | Assignments               |                         |
   | ------ | -------- | ------------------------- | ----------------------- |
   | Week 3 | 3.21 Mon | HW 1 - Data_Visualization | :ballot_box_with_check: |
-  |        |          |                           |                         |
+  | Week 4 | 3.28 Mon | HW 2, 3                   |                         |
 
 
 
@@ -35,9 +35,10 @@
 | Week 1 | 22.03.03 | Introduction<br />Wireless Network - Protocal & MAC |
 |        | 22.03.08 | Wireless Links & WLAN                               |
 | Week 2 | 22.03.10 | IOT                                                 |
-|        | 22.03.15 | Neural Network                                      |
+|        | 22.03.15 | Introduction to Deep Learning 1                     |
 | Week 3 | 22.03.17 | Fundamentals of Water Electrolysis                  |
 |        | 22.03.22 | "입자물리학자로서 걸어온 길" 강연 대체              |
+| Week 4 | 22.03.24 | Introduction to Deep Learning 2                     |
 
 
 
