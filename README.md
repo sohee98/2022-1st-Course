@@ -61,7 +61,7 @@
   | ------ | --------- | ------------ | ----------------------- |
   | Week 1 | 3.10 Thur | HW 1 - Logic | :ballot_box_with_check: |
   | Week 2 | 3.18 Fri  | HW 2 - DFA   | :ballot_box_with_check: |
-  | Week 3 | 3.25 Fri  | HW 3 - NFA   |                         |
+  | Week 3 | 3.25 Fri  | HW 3 - NFA   | :ballot_box_with_check: |
 
 * **Quiz**
 
@@ -69,6 +69,7 @@
   | ------ | --------- | -------- |
   | Week 1 | 3.10 Thur | Logic    |
   | Week 2 | 3.18 Fri  | DFA      |
+  | Week 3 | 3.25 Fri  | NFA      |
 
 
 
