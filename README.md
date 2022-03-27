@@ -12,17 +12,18 @@
 | Week 1 | 22.03.03 | 1. Introduction to Sensor Data Science                       |
 |        | 22.03.08 | 2. Sensor Data Analysis Process Overview: Mobile & Fixed Sensing Cases |
 | Week 2 | 22.03.10 | 3. Key Applications for Sensor Data Science: Context-Aware & Persuasive Computing |
-|        | 22.03.15 | 4. Data Visualization for Sensor Data Science <br />Colab Practice #1. Plotly |
-| Week 3 | 22.03.17 | 5. Datasets Introduction - K-EmoPhone, K-EmoCon, CrowdSignal<br />Colab Practice #2. Plotly |
-|        | 22.03.22 | 6. Sensor Data Collection<br />Colab Practice #3. datasets   |
-| Week 4 | 22.03.24 | 7. Handling Noise and Missing Values in Sensory Data<br />Colab Practice #4. outliers |
+|        | 22.03.15 | 4. Data Visualization for Sensor Data Science <br />Colab Practice #1. Data Visualization - Plotly |
+| Week 3 | 22.03.17 | 5. Datasets Introduction - K-EmoPhone, K-EmoCon, CrowdSignal<br />Colab Practice #2. Data Visualization - Plotly |
+|        | 22.03.22 | 6. Sensor Data Collection<br />Colab Practice #3. Dataset Exploration |
+| Week 4 | 22.03.24 | 7. Handling Noise and Missing Values in Sensory Data<br />Colab Practice #4. Outlier Imputation |
 
 * **Assignments**
 
-  |        | Due Date | Assignments               |                         |
-  | ------ | -------- | ------------------------- | ----------------------- |
-  | Week 3 | 3.21 Mon | HW 1 - Data_Visualization | :ballot_box_with_check: |
-  | Week 4 | 3.28 Mon | HW 2, 3                   |                         |
+  |        | Due Date | Assignments                                               |                         |
+  | ------ | -------- | --------------------------------------------------------- | ----------------------- |
+  | Week 3 | 3.21 Mon | HW 1 - Data Visualization                                 | :ballot_box_with_check: |
+  | Week 4 | 3.28 Mon | HW 2 - Dataset Exploration<br />HW 3 - Outlier Imputation | :ballot_box_with_check: |
+  | Week 5 |          |                                                           |                         |
 
 
 
