@@ -16,6 +16,7 @@
 | Week 3 | 22.03.17 | 5. Datasets Introduction - K-EmoPhone, K-EmoCon, CrowdSignal<br />Colab Practice #2. Data Visualization - Plotly |
 |        | 22.03.22 | 6. Sensor Data Collection<br />Colab Practice #3. Dataset Exploration |
 | Week 4 | 22.03.24 | 7. Handling Noise and Missing Values in Sensory Data<br />Colab Practice #4. Outlier Imputation |
+|        | 22.03.29 |                                                              |
 
 * **Assignments**
 
@@ -86,6 +87,7 @@
 |        | 22.03.15 | Baldwin formula for science writing<br />Research topic for final paper |
 | Week 3 | 22.03.17 | Academic article content: Literature review/theory           |
 |        | 22.03.22 | Grammar: Connectors for academic writing                     |
+| Week 4 | 22.03.29 |                                                              |
 
 * **Assignments**
 
@@ -93,5 +95,5 @@
     | ------ | --------- | ------------------------------------------------------------ | ----------------------- |
     | Week 1 | 3.10 Thur | Read - "Writing journal articles" <br />Write - What I want to achieve from this course | :ballot_box_with_check: |
     | Week 2 | 3.17 Thur | Read - “The Baldwin Formula for writing a scientific paper and reviewing papers” <br />Write - research topic for final paper (Research proposal) | :ballot_box_with_check: |
-    | Week 4 | 3.29 Tue  | Write - Revised Proposal                                     |                         |
+    | Week 3 | 3.29 Tue  | Write - Revised Proposal                                     | :ballot_box_with_check: |
 
