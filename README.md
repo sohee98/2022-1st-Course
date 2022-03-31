@@ -17,7 +17,7 @@
 |        | 22.03.22 | 6. Sensor Data Collection<br />Colab Practice #2. Dataset Exploration |
 | Week 4 | 22.03.24 | 7. Handling Noise and Missing Values in Sensory Data<br />Colab Practice #3. Outlier Imputation |
 |        | 22.03.29 | 8.  Handling Noise and Missing Values in Sensory Data<br />Colab Practice #4. Dimension Reduction |
-| Week 5 | 22.03.31 |                                                              |
+| Week 5 | 22.03.31 | 9. DS Applications: Emotion & Personality <br />Colab Practice #4. Dimension Reduction |
 
 * **Assignments**
 
@@ -25,7 +25,7 @@
   | ------ | -------- | --------------------------------------------------------- | ----------------------- |
   | Week 3 | 3.21 Mon | HW 1 - Data Visualization                                 | :ballot_box_with_check: |
   | Week 4 | 3.28 Mon | HW 2 - Dataset Exploration<br />HW 3 - Outlier Imputation | :ballot_box_with_check: |
-  | Week 5 |          |                                                           |                         |
+  | Week 5 | 4.04 Mon | HW 4 - Dimension Reduction                                |                         |
 
 
 
@@ -96,7 +96,7 @@
 | Week 3 | 22.03.17 | Academic article content: Literature review/theory           |
 |        | 22.03.22 | Grammar: Connectors for academic writing                     |
 | Week 4 | 22.03.29 | **Academic Articles In-Depth**<br />English Arguments        |
-| Week 6 | 22.04.01 |                                                              |
+| Week 5 | 22.03.31 | Counterarguments (arguments in literature review, arguing against arguments) |
 
 * **Assignments**
 
