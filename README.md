@@ -43,7 +43,7 @@
 |        | 22.03.22 | "입자물리학자로서 걸어온 길" 강연 대체                 |
 | Week 4 | 22.03.24 | 6. Introduction to Deep Learning 2                     |
 |        | 22.03.29 | 7. Convolutional Neural Network                        |
-| Week 5 | 22.03.31 |                                                        |
+| Week 5 | 22.03.31 | 8. Energy AI와 강화학습                                |
 
 
 
@@ -61,7 +61,7 @@
 |        | 22.03.22 | Nondeterministic FA (NFA) |
 | Week 4 | 22.03.25 | NFA - HW 2 discussion     |
 |        | 22.03.29 | Regular Expressions       |
-| Week 5 | 22.04.01 | HW 3                      |
+| Week 5 | 22.04.01 | HW 3 - Regex              |
 
 * **Assignments**
 
@@ -70,7 +70,7 @@
   | Week 1 | 3.10 Thur | HW 1 - Logic | :ballot_box_with_check: |
   | Week 2 | 3.18 Fri  | HW 2 - DFA   | :ballot_box_with_check: |
   | Week 3 | 3.25 Fri  | HW 2 - NFA   | :ballot_box_with_check: |
-  | Week 4 | 4.01 Fri  | HW 3         |                         |
+  | Week 4 | 4.01 Fri  | HW 3 - Regex | :ballot_box_with_check: |
 
 * **Quiz**
 
@@ -79,7 +79,7 @@
   | Week 1 | 3.10 Thur | Logic    |
   | Week 2 | 3.18 Fri  | DFA      |
   | Week 3 | 3.25 Fri  | NFA      |
-  | Week 4 | 4.01 Fri  |          |
+  | Week 4 | 4.01 Fri  | Regex    |
 
 
 
