@@ -25,7 +25,7 @@
   | ------ | -------- | --------------------------------------------------------- | ----------------------- |
   | Week 3 | 3.21 Mon | HW 1 - Data Visualization                                 | :ballot_box_with_check: |
   | Week 4 | 3.28 Mon | HW 2 - Dataset Exploration<br />HW 3 - Outlier Imputation | :ballot_box_with_check: |
-  | Week 5 | 4.04 Mon | HW 4 - Dimension Reduction                                |                         |
+  | Week 5 | 4.04 Mon | HW 4 - Dimension Reduction                                | :ballot_box_with_check: |
 
 
 
