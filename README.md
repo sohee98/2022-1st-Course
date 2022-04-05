@@ -96,7 +96,9 @@
 | Week 3 | 22.03.17 | Academic article content: Literature review/theory           |
 |        | 22.03.22 | Grammar: Connectors for academic writing                     |
 | Week 4 | 22.03.29 | **Academic Articles In-Depth**<br />English Arguments        |
-| Week 5 | 22.03.31 | Counterarguments (arguments in literature review, arguing against arguments) |
+|        | 22.03.31 | Counterarguments (arguments in literature review, arguing against arguments) |
+| Week 5 | 22.04.05 | Outlining                                                    |
+|        | 22.04.07 | Outlining and Noun Phrases                                   |
 
 * **Assignments**
 
@@ -105,4 +107,5 @@
     | Week 1 | 3.10 Thur | Read - "Writing journal articles" <br />Write - What I want to achieve from this course | :ballot_box_with_check: |
     | Week 2 | 3.17 Thur | Read - “The Baldwin Formula for writing a scientific paper and reviewing papers” <br />Write - research topic for final paper (Research proposal) | :ballot_box_with_check: |
     | Week 4 | 3.29 Tue  | Write - Revised Proposal                                     | :ballot_box_with_check: |
+    | Week 6 | 4.14      | Write - Outline<br />Read - A brief foray into style         |                         |
 
