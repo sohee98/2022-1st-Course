@@ -18,6 +18,8 @@
 | Week 4 | 22.03.24 | 7. Handling Noise and Missing Values in Sensory Data<br />Colab Practice #3. Outlier Imputation |
 |        | 22.03.29 | 8.  Handling Noise and Missing Values in Sensory Data<br />Colab Practice #4. Dimension Reduction |
 | Week 5 | 22.03.31 | 9. DS Applications: Emotion & Personality <br />Colab Practice #4. Dimension Reduction |
+|        | 22.04.05 | 10. Digital Signal Processing Basics I <br />Colab Practice #5.  DSP Basics |
+| Week 6 | 22.04.07 | 11. Digital Signal Processing Basics II<br />Colab Practice #6.  DSP Filters |
 
 * **Assignments**
 
@@ -26,6 +28,7 @@
   | Week 3 | 3.21 Mon | HW 1 - Data Visualization                                 | :ballot_box_with_check: |
   | Week 4 | 3.28 Mon | HW 2 - Dataset Exploration<br />HW 3 - Outlier Imputation | :ballot_box_with_check: |
   | Week 5 | 4.04 Mon | HW 4 - Dimension Reduction                                | :ballot_box_with_check: |
+  | Week 6 | 4.11 Mon | HW 5 - DSP Basics<br />HW 6 - DSP Filters                 |                         |
 
 
 
@@ -44,6 +47,8 @@
 | Week 4 | 22.03.24 | 6. Introduction to Deep Learning 2                     |
 |        | 22.03.29 | 7. Convolutional Neural Network                        |
 | Week 5 | 22.03.31 | 8. Energy AI와 강화학습                                |
+|        | 22.04.05 |                                                        |
+| Week 6 | 22.04.07 |                                                        |
 
 
 
@@ -62,6 +67,9 @@
 | Week 4 | 22.03.25 | NFA - HW 2 discussion     |
 |        | 22.03.29 | Regular Expressions       |
 | Week 5 | 22.04.01 | HW 3 - Regex              |
+|        | 22.04.05 |                           |
+| Week 6 | 22.04.12 |                           |
+|        |          |                           |
 
 * **Assignments**
 
