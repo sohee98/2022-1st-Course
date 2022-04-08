@@ -28,7 +28,8 @@
   | Week 3 | 3.21 Mon | HW 1 - Data Visualization                                 | :ballot_box_with_check: |
   | Week 4 | 3.28 Mon | HW 2 - Dataset Exploration<br />HW 3 - Outlier Imputation | :ballot_box_with_check: |
   | Week 5 | 4.04 Mon | HW 4 - Dimension Reduction                                | :ballot_box_with_check: |
-  | Week 6 | 4.11 Mon | HW 5 - DSP Basics<br />HW 6 - DSP Filters                 |                         |
+  | Week 6 | 4.11 Mon | HW 5 - DSP Basics                                         | :ballot_box_with_check: |
+  |        | 4.15 Fri | HW 6 - DSP Filters                                        |                         |
 
 
 
@@ -47,8 +48,14 @@
 | Week 4 | 22.03.24 | 6. Introduction to Deep Learning 2                     |
 |        | 22.03.29 | 7. Convolutional Neural Network                        |
 | Week 5 | 22.03.31 | 8. Energy AI와 강화학습                                |
-|        | 22.04.05 |                                                        |
-| Week 6 | 22.04.07 |                                                        |
+|        | 22.04.05 | 9. Hydrogen Supply Chain and Cost Analysis             |
+| Week 6 | 22.04.07 | 10. IntNetwork                                         |
+
+* **Quiz**
+
+  |              | Date      |
+  | ------------ | --------- |
+  | Midterm Quiz | 4.14 Thur |
 
 
 
@@ -67,18 +74,19 @@
 | Week 4 | 22.03.25 | NFA - HW 2 discussion     |
 |        | 22.03.29 | Regular Expressions       |
 | Week 5 | 22.04.01 | HW 3 - Regex              |
-|        | 22.04.05 |                           |
+|        | 22.04.05 | Nonregular language (CFL) |
 | Week 6 | 22.04.12 |                           |
-|        |          |                           |
+|        | 22.04.15 | HW 4, 5                   |
 
 * **Assignments**
 
-  |        | Due Date  | Assignments  |                         |
-  | ------ | --------- | ------------ | ----------------------- |
-  | Week 1 | 3.10 Thur | HW 1 - Logic | :ballot_box_with_check: |
-  | Week 2 | 3.18 Fri  | HW 2 - DFA   | :ballot_box_with_check: |
-  | Week 3 | 3.25 Fri  | HW 2 - NFA   | :ballot_box_with_check: |
-  | Week 4 | 4.01 Fri  | HW 3 - Regex | :ballot_box_with_check: |
+  |           | Due Date  | Assignments  |                         |
+  | --------- | --------- | ------------ | ----------------------- |
+  | Week 1    | 3.10 Thur | HW 1 - Logic | :ballot_box_with_check: |
+  | Week 2    | 3.18 Fri  | HW 2 - DFA   | :ballot_box_with_check: |
+  | Week 3    | 3.25 Fri  | HW 2 - NFA   | :ballot_box_with_check: |
+  | Week 4    | 4.01 Fri  | HW 3 - Regex | :ballot_box_with_check: |
+  | Week 5, 6 | 4.15 Fri  | HW 4, 5      |                         |
 
 * **Quiz**
 
