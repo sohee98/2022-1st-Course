@@ -119,8 +119,8 @@
 |        | 22.03.31 | Counterarguments (arguments in literature review, arguing against arguments) |
 | Week 5 | 22.04.05 | Outlining                                                    |
 |        | 22.04.07 | Outlining and Noun Phrases                                   |
-| Week 6 | 22.04.12 |                                                              |
-|        | 22.04.14 |                                                              |
+| Week 6 | 22.04.12 | Data and results section                                     |
+|        | 22.04.14 | Hedging and boosting                                         |
 
 * **Assignments**
 
