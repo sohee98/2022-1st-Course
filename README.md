@@ -16,20 +16,23 @@
 | Week 3 | 22.03.17 | 5. Datasets Introduction - K-EmoPhone, K-EmoCon, CrowdSignal<br />Colab Practice #1. Data Visualization - Plotly |
 |        | 22.03.22 | 6. Sensor Data Collection<br />Colab Practice #2. Dataset Exploration |
 | Week 4 | 22.03.24 | 7. Handling Noise and Missing Values in Sensory Data<br />Colab Practice #3. Outlier Imputation |
-|        | 22.03.29 | 8.  Handling Noise and Missing Values in Sensory Data<br />Colab Practice #4. Dimension Reduction |
-| Week 5 | 22.03.31 | 9. DS Applications: Emotion & Personality <br />Colab Practice #4. Dimension Reduction |
-|        | 22.04.05 | 10. Digital Signal Processing Basics I <br />Colab Practice #5.  DSP Basics |
-| Week 6 | 22.04.07 | 11. Digital Signal Processing Basics II<br />Colab Practice #6.  DSP Filters |
+| Week 5 | 22.03.29 | 8.  Handling Noise and Missing Values in Sensory Data<br />Colab Practice #4. Dimension Reduction |
+|        | 22.03.31 | 9. DS Applications: Emotion & Personality <br />Colab Practice #4. Dimension Reduction |
+| Week 6 | 22.04.05 | 10. Digital Signal Processing Basics I <br />Colab Practice #5.  DSP Basics |
+|        | 22.04.07 | 11. Digital Signal Processing Basics II<br />Colab Practice #6.  DSP Filters |
+| Week 7 | 22.04.12 | 12. Feature Engineering based on Sensory Data I <br />Colab Practice #7. Feature Engineering |
+|        |          | 13.  Feature Engineering based on Sensory Data II  <br />Colab Practice #8. Feature Engineering |
 
 * **Assignments**
 
-  |        | Due Date | Assignments                                               |                         |
-  | ------ | -------- | --------------------------------------------------------- | ----------------------- |
-  | Week 3 | 3.21 Mon | HW 1 - Data Visualization                                 | :ballot_box_with_check: |
-  | Week 4 | 3.28 Mon | HW 2 - Dataset Exploration<br />HW 3 - Outlier Imputation | :ballot_box_with_check: |
-  | Week 5 | 4.04 Mon | HW 4 - Dimension Reduction                                | :ballot_box_with_check: |
-  | Week 6 | 4.11 Mon | HW 5 - DSP Basics                                         | :ballot_box_with_check: |
-  |        | 4.15 Fri | HW 6 - DSP Filters                                        |                         |
+  |        | Due Date | Assignments                                                |                         |
+  | ------ | -------- | ---------------------------------------------------------- | ----------------------- |
+  | Week 3 | 3.21 Mon | HW 1 - Data Visualization                                  | :ballot_box_with_check: |
+  | Week 4 | 3.28 Mon | HW 2 - Dataset Exploration<br />HW 3 - Outlier Imputation  | :ballot_box_with_check: |
+  | Week 5 | 4.04 Mon | HW 4 - Dimension Reduction                                 | :ballot_box_with_check: |
+  | Week 6 | 4.11 Mon | HW 5 - DSP Basics                                          | :ballot_box_with_check: |
+  |        | 4.15 Fri | HW 6 - DSP Filters                                         |                         |
+  | Week 7 | 4.18 Mon | HW 7 - Feature Engineering<br />HW 8 - Feature Engineering |                         |
 
 
 
@@ -50,12 +53,13 @@
 | Week 5 | 22.03.31 | 8. Energy AI와 강화학습                                |
 |        | 22.04.05 | 9. Hydrogen Supply Chain and Cost Analysis             |
 | Week 6 | 22.04.07 | 10. IntNetwork                                         |
+|        | 22.04.12 | 11.  Network Analysis - GNN                            |
 
 * **Quiz**
 
-  |              | Date      |
-  | ------------ | --------- |
-  | Midterm Quiz | 4.14 Thur |
+  |              | Date     |
+  | ------------ | -------- |
+  | Midterm Quiz | 4.19 Tue |
 
 
 
