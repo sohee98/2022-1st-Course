@@ -67,20 +67,20 @@
 
 >  김종권 교수님 /  화 4교시, 금 11:00 am
 
-|        | Date     | Contents                  |
-| ------ | -------- | ------------------------- |
-| Week 1 | 22.03.03 | Introduction              |
-|        | 22.03.08 | Logic                     |
-| Week 2 | 22.03.10 | Logic - HW 1 discussion   |
-|        | 22.03.15 | Deterministic FA (DFA)    |
-| Week 3 | 22.03.18 | DFA - HW 2 discussion     |
-|        | 22.03.22 | Nondeterministic FA (NFA) |
-| Week 4 | 22.03.25 | NFA - HW 2 discussion     |
-|        | 22.03.29 | Regular Expressions       |
-| Week 5 | 22.04.01 | HW 3 - Regex              |
-|        | 22.04.05 | Nonregular language (CFL) |
-| Week 6 | 22.04.12 |                           |
-|        | 22.04.15 | HW 4, 5                   |
+|        | Date     | Contents                     |
+| ------ | -------- | ---------------------------- |
+| Week 1 | 22.03.03 | Introduction                 |
+|        | 22.03.08 | 1. Logic                     |
+| Week 2 | 22.03.10 | HW 1 - Logic                 |
+|        | 22.03.15 | 2. Deterministic FA (DFA)    |
+| Week 3 | 22.03.18 | HW 2 - DFA                   |
+|        | 22.03.22 | 2. Nondeterministic FA (NFA) |
+| Week 4 | 22.03.25 | HW 2 - NFA                   |
+|        | 22.03.29 | 3. Regular Expressions       |
+| Week 5 | 22.04.01 | HW 3 - Regex                 |
+|        | 22.04.05 | 3. Nonregular language (CFL) |
+| Week 6 | 22.04.12 | 4. Turing Machine            |
+|        | 22.04.15 | HW 4, 5 -                    |
 
 * **Assignments**
 
@@ -100,6 +100,7 @@
   | Week 2 | 3.18 Fri  | DFA      |
   | Week 3 | 3.25 Fri  | NFA      |
   | Week 4 | 4.01 Fri  | Regex    |
+  | Week 6 | 4.15 Fri  |          |
 
 
 
@@ -129,5 +130,5 @@
     | Week 1 | 3.10 Thur | Read - "Writing journal articles" <br />Write - What I want to achieve from this course | :ballot_box_with_check: |
     | Week 2 | 3.17 Thur | Read - “The Baldwin Formula for writing a scientific paper and reviewing papers” <br />Write - research topic for final paper (Research proposal) | :ballot_box_with_check: |
     | Week 4 | 3.29 Tue  | Write - Revised Proposal                                     | :ballot_box_with_check: |
-    | Week 6 | 4.14      | Write - Outline<br />Read - A brief foray into style         |                         |
+    | Week 6 | 4.14      | Write - Outline<br />Read - A brief foray into style         | :ballot_box_with_check: |
 
