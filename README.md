@@ -22,6 +22,8 @@
 |        | 22.04.07 | 11. Digital Signal Processing Basics II<br />Colab Practice #6.  DSP Filters |
 | Week 7 | 22.04.12 | 12. Feature Engineering based on Sensory Data I <br />Colab Practice #7. Feature Engineering |
 |        | 22.04.14 | 13.  Feature Engineering based on Sensory Data II  <br />Colab Practice #8. Feature Engineering |
+| Week 8 | 22.04.19 |                                                              |
+|        | 22.04.21 |                                                              |
 
 * **Assignments**
 
@@ -32,9 +34,13 @@
   | Week 5 | 4.04 Mon | HW 4 - Dimension Reduction                                 | :ballot_box_with_check: |
   | Week 6 | 4.11 Mon | HW 5 - DSP Basics                                          | :ballot_box_with_check: |
   |        | 4.15 Fri | HW 6 - DSP Filters                                         | :ballot_box_with_check: |
-  | Week 7 | 4.18 Mon | HW 7 - Feature Engineering<br />HW 8 - Feature Engineering |                         |
+  | Week 7 | 4.18 Mon | HW 7 - Feature Engineering<br />HW 8 - Feature Engineering | :ballot_box_with_check: |
 
+* **Test**
 
+  |         | Date      |
+  | ------- | --------- |
+  | Midterm | 4.28 Thur |
 
 ### □ AI Applications for Energy Systems
 
@@ -80,27 +86,28 @@
 | Week 5 | 22.04.01 | HW 3 - Regex                 |
 |        | 22.04.05 | 3. Nonregular language (CFL) |
 | Week 6 | 22.04.12 | 4. Turing Machine            |
-|        | 22.04.15 | HW 4 -                       |
+|        | 22.04.15 | HW 4 - CFL, Turing Machine   |
 
 * **Assignments**
 
-  |           | Due Date  | Assignments  |                         |
-  | --------- | --------- | ------------ | ----------------------- |
-  | Week 1    | 3.10 Thur | HW 1 - Logic | :ballot_box_with_check: |
-  | Week 2    | 3.18 Fri  | HW 2 - DFA   | :ballot_box_with_check: |
-  | Week 3    | 3.25 Fri  | HW 2 - NFA   | :ballot_box_with_check: |
-  | Week 4    | 4.01 Fri  | HW 3 - Regex | :ballot_box_with_check: |
-  | Week 5, 6 | 4.15 Fri  | HW 4         |                         |
+  |           | Due Date  | Assignments                |                         |
+  | --------- | --------- | -------------------------- | ----------------------- |
+  | Week 1    | 3.10 Thur | HW 1 - Logic               | :ballot_box_with_check: |
+  | Week 2    | 3.18 Fri  | HW 2 - DFA                 | :ballot_box_with_check: |
+  | Week 3    | 3.25 Fri  | HW 2 - NFA                 | :ballot_box_with_check: |
+  | Week 4    | 4.01 Fri  | HW 3 - Regex               | :ballot_box_with_check: |
+  | Week 5, 6 | 4.15 Fri  | HW 4 - CFL, Turing Machine | :ballot_box_with_check: |
 
 * **Quiz**
 
-  |        | Date      | Contents |
-  | ------ | --------- | -------- |
-  | Week 1 | 3.10 Thur | Logic    |
-  | Week 2 | 3.18 Fri  | DFA      |
-  | Week 3 | 3.25 Fri  | NFA      |
-  | Week 4 | 4.01 Fri  | Regex    |
-  | Week 6 | 4.15 Fri  |          |
+  |         | Date      | Contents            |
+  | ------- | --------- | ------------------- |
+  | Week 1  | 3.10 Thur | Logic               |
+  | Week 2  | 3.18 Fri  | DFA                 |
+  | Week 3  | 3.25 Fri  | NFA                 |
+  | Week 4  | 4.01 Fri  | Regex               |
+  | Week 6  | 4.15 Fri  | CFL, Turing Machine |
+  | Midterm | 4.22 Fri  | Midterm             |
 
 
 
