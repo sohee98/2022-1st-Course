@@ -35,6 +35,7 @@
   | Week 6 | 4.11 Mon | HW 5 - DSP Basics                                          | :ballot_box_with_check: |
   |        | 4.15 Fri | HW 6 - DSP Filters                                         | :ballot_box_with_check: |
   | Week 7 | 4.18 Mon | HW 7 - Feature Engineering<br />HW 8 - Feature Engineering | :ballot_box_with_check: |
+  | Week 8 | 4.25 Mon | HW 9 - Deeplearning<br />HW 10                             |                         |
 
 * **Test**
 
