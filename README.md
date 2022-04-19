@@ -62,11 +62,13 @@
 | Week 6 | 22.04.07 | 10. IntNetwork                                         |
 |        | 22.04.12 | 11.  Network Analysis - GNN                            |
 
-* **Quiz**
+* **Quiz & Presentation**
 
-  |              | Date     |
-  | ------------ | -------- |
-  | Midterm Quiz | 4.19 Tue |
+  |                     | Date     |
+  | ------------------- | -------- |
+  | Midterm Quiz        | 4.19 Tue |
+  | Research Paper PT   | 4.26 Tue |
+  | Literature study PT | 6.14 Tue |
 
 
 
@@ -88,6 +90,7 @@
 |        | 22.04.05 | 3. Nonregular language (CFL) |
 | Week 6 | 22.04.12 | 4. Turing Machine            |
 |        | 22.04.15 | HW 4 - CFL, Turing Machine   |
+| Week 7 | 22.04.20 | 5. Turing Machine 2          |
 
 * **Assignments**
 
