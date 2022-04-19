@@ -130,6 +130,8 @@
 |        | 22.04.07 | Outlining and Noun Phrases                                   |
 | Week 6 | 22.04.12 | Data and results section                                     |
 |        | 22.04.14 | Hedging and boosting                                         |
+| Week 7 | 22.04.19 | Discussions and Abstracts                                    |
+|        | 22.04.21 |                                                              |
 
 * **Assignments**
 
@@ -138,5 +140,6 @@
     | Week 1 | 3.10 Thur | Read - "Writing journal articles" <br />Write - What I want to achieve from this course | :ballot_box_with_check: |
     | Week 2 | 3.17 Thur | Read - “The Baldwin Formula for writing a scientific paper and reviewing papers” <br />Write - research topic for final paper (Research proposal) | :ballot_box_with_check: |
     | Week 4 | 3.29 Tue  | Write - Revised Proposal                                     | :ballot_box_with_check: |
-    | Week 6 | 4.14      | Write - Outline<br />Read - A brief foray into style         | :ballot_box_with_check: |
+    | Week 6 | 4.14 Thur | Write - Outline<br />Read - A brief foray into style         | :ballot_box_with_check: |
+    |        | 5.3 Tue   | Write annotated bibliography                                 |                         |
 
