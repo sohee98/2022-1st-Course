@@ -22,8 +22,8 @@
 |        | 22.04.07 | 11. Digital Signal Processing Basics II<br />Colab Practice #6.  DSP Filters |
 | Week 7 | 22.04.12 | 12. Feature Engineering based on Sensory Data I <br />Colab Practice #7. Feature Engineering |
 |        | 22.04.14 | 13.  Feature Engineering based on Sensory Data II  <br />Colab Practice #8. Feature Engineering |
-| Week 8 | 22.04.19 |                                                              |
-|        | 22.04.21 |                                                              |
+| Week 8 | 22.04.19 | 14. Learning Based on Sensory Data: Supervised Learning I<br />Colab Practice #9. Machine learning basics |
+|        | 22.04.21 | 15. Learning Based on Sensory Data: Supervised Learning II<br />Colab Practice #10. Availability Prediction (xgboost, lightgbm) |
 
 * **Assignments**
 
@@ -35,7 +35,7 @@
   | Week 6 | 4.11 Mon | HW 5 - DSP Basics                                          | :ballot_box_with_check: |
   |        | 4.15 Fri | HW 6 - DSP Filters                                         | :ballot_box_with_check: |
   | Week 7 | 4.18 Mon | HW 7 - Feature Engineering<br />HW 8 - Feature Engineering | :ballot_box_with_check: |
-  | Week 8 | 5.02 Mon | HW 9 - Deeplearning<br />HW 10                             |                         |
+  | Week 8 | 5.02 Mon | HW 9 - Deeplearning basics                                 |                         |
 
 * **Test**
 
@@ -61,6 +61,7 @@
 |        | 22.04.05 | 9. Hydrogen Supply Chain and Cost Analysis             |
 | Week 6 | 22.04.07 | 10. IntNetwork                                         |
 |        | 22.04.12 | 11.  Network Analysis - GNN                            |
+| Week 7 | 22.04.21 | Midterm solution                                       |
 
 * **Quiz & Presentation**
 
@@ -90,7 +91,8 @@
 |        | 22.04.05 | 3. Nonregular language (CFL) |
 | Week 6 | 22.04.12 | 4. Turing Machine            |
 |        | 22.04.15 | HW 4 - CFL, Turing Machine   |
-| Week 7 | 22.04.20 | 5. Turing Machine 2          |
+| Week 7 | 22.04.19 | 5. Turing Machine 2          |
+|        |          |                              |
 
 * **Assignments**
 
@@ -133,8 +135,8 @@
 |        | 22.04.07 | Outlining and Noun Phrases                                   |
 | Week 6 | 22.04.12 | Data and results section                                     |
 |        | 22.04.14 | Hedging and boosting                                         |
-| Week 7 | 22.04.19 | Discussions and Abstracts                                    |
-|        | 22.04.21 |                                                              |
+| Week 7 | 22.04.19 | Discussions, annotated bibliography                          |
+|        | 22.04.21 | Abstracts                                                    |
 
 * **Assignments**
 
