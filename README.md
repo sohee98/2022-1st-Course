@@ -121,30 +121,36 @@
 
 > Paul Professor / 화,목 3교시
 
-|        | Date     | Contents                                                     |
-| ------ | -------- | ------------------------------------------------------------ |
-| Week 1 | 22.03.03 | Course Introduction<br />**Introduction to Academic Articles** |
-|        | 22.03.08 | Introduction to genres, English paragraph review             |
-| Week 2 | 22.03.10 | Academic article structure and content<br />Introduction, body, conclusion<br />Thesis statements |
-|        | 22.03.15 | Baldwin formula for science writing<br />Research topic for final paper |
-| Week 3 | 22.03.17 | Academic article content: Literature review/theory           |
-|        | 22.03.22 | Grammar: Connectors for academic writing                     |
-| Week 4 | 22.03.29 | **Academic Articles In-Depth**<br />English Arguments        |
-|        | 22.03.31 | Counterarguments (arguments in literature review, arguing against arguments) |
-| Week 5 | 22.04.05 | Outlining                                                    |
-|        | 22.04.07 | Outlining and Noun Phrases                                   |
-| Week 6 | 22.04.12 | Data and results section                                     |
-|        | 22.04.14 | Hedging and boosting                                         |
-| Week 7 | 22.04.19 | Discussions, annotated bibliography                          |
-|        | 22.04.21 | Abstracts                                                    |
+|         | Date     | Contents                                                     |
+| ------- | -------- | ------------------------------------------------------------ |
+| Week 1  | 22.03.03 | Course Introduction<br />**Introduction to Academic Articles** |
+|         | 22.03.08 | Introduction to genres, English paragraph review             |
+| Week 2  | 22.03.10 | Academic article structure and content<br />Introduction, body, conclusion<br />Thesis statements |
+|         | 22.03.15 | Baldwin formula for science writing<br />Research topic for final paper |
+| Week 3  | 22.03.17 | Academic article content: Literature review/theory           |
+|         | 22.03.22 | Grammar: Connectors for academic writing                     |
+| Week 4  | 22.03.29 | **Academic Articles In-Depth**<br />English Arguments        |
+|         | 22.03.31 | Counterarguments (arguments in literature review, arguing against arguments) |
+| Week 5  | 22.04.05 | Outlining                                                    |
+|         | 22.04.07 | Outlining and Noun Phrases                                   |
+| Week 6  | 22.04.12 | Data and results section                                     |
+|         | 22.04.14 | Hedging and boosting                                         |
+| Week 7  | 22.04.19 | Discussions, annotated bibliography                          |
+|         | 22.04.21 | Abstracts                                                    |
+| Week 8  | 22.04.26 | Quotes, paraphrasing, and summaries                          |
+|         | 22.04.28 | Quotes, paraphrasing, and summaries                          |
+| Week 9  | 22.05.03 | Cunsultation about research paper                            |
+| Week 10 | 22.05.10 | Cunsultation about research paper                            |
+|         | 22.05.12 | Peer-editing and reviews                                     |
 
 * **Assignments**
 
-    |        | Due Date  | Assignments                                                  |                         |
-    | ------ | --------- | ------------------------------------------------------------ | ----------------------- |
-    | Week 1 | 3.10 Thur | Read - "Writing journal articles" <br />Write - What I want to achieve from this course | :ballot_box_with_check: |
-    | Week 2 | 3.17 Thur | Read - “The Baldwin Formula for writing a scientific paper and reviewing papers” <br />Write - research topic for final paper (Research proposal) | :ballot_box_with_check: |
-    | Week 4 | 3.29 Tue  | Write - Revised Proposal                                     | :ballot_box_with_check: |
-    | Week 6 | 4.14 Thur | Write - Outline<br />Read - A brief foray into style         | :ballot_box_with_check: |
-    |        | 5.3 Tue   | Write annotated bibliography                                 |                         |
+    |         | Due Date  | Assignments                                                  |                         |
+    | ------- | --------- | ------------------------------------------------------------ | ----------------------- |
+    | Week 1  | 3.10 Thur | Read - "Writing journal articles" <br />Write - What I want to achieve from this course | :ballot_box_with_check: |
+    | Week 2  | 3.17 Thur | Read - “The Baldwin Formula for writing a scientific paper and reviewing papers” <br />Write - research topic for final paper (Research proposal) | :ballot_box_with_check: |
+    | Week 4  | 3.29 Tue  | Write - Revised Proposal                                     | :ballot_box_with_check: |
+    | Week 6  | 4.14 Thur | Write - Outline<br />Read - A brief foray into style         | :ballot_box_with_check: |
+    | Week 8  | 5.3 Tue   | Write annotated bibliography                                 |                         |
+    | Week 10 | 5.17 Tue  | Write First draft of research paper                          |                         |
 
