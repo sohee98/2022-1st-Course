@@ -7,23 +7,25 @@
 > [Introduction Link](http://tiny.cc/y3wouz)
 > 노영태 교수님 / 화,목 1교시
 
-|        | Date     | Contents                                                     |
-| ------ | -------- | ------------------------------------------------------------ |
-| Week 1 | 22.03.03 | 1. Introduction to Sensor Data Science                       |
-|        | 22.03.08 | 2. Sensor Data Analysis Process Overview: Mobile & Fixed Sensing Cases |
-| Week 2 | 22.03.10 | 3. Key Applications for Sensor Data Science: Context-Aware & Persuasive Computing |
-|        | 22.03.15 | 4. Data Visualization for Sensor Data Science <br />Colab Practice #1. Data Visualization - Plotly |
-| Week 3 | 22.03.17 | 5. Datasets Introduction - K-EmoPhone, K-EmoCon, CrowdSignal<br />Colab Practice #1. Data Visualization - Plotly |
-|        | 22.03.22 | 6. Sensor Data Collection<br />Colab Practice #2. Dataset Exploration |
-| Week 4 | 22.03.24 | 7. Handling Noise and Missing Values in Sensory Data<br />Colab Practice #3. Outlier Imputation |
-| Week 5 | 22.03.29 | 8.  Handling Noise and Missing Values in Sensory Data<br />Colab Practice #4. Dimension Reduction |
-|        | 22.03.31 | 9. DS Applications: Emotion & Personality <br />Colab Practice #4. Dimension Reduction |
-| Week 6 | 22.04.05 | 10. Digital Signal Processing Basics I <br />Colab Practice #5.  DSP Basics |
-|        | 22.04.07 | 11. Digital Signal Processing Basics II<br />Colab Practice #6.  DSP Filters |
-| Week 7 | 22.04.12 | 12. Feature Engineering based on Sensory Data I <br />Colab Practice #7. Feature Engineering |
-|        | 22.04.14 | 13.  Feature Engineering based on Sensory Data II  <br />Colab Practice #8. Feature Engineering |
-| Week 8 | 22.04.19 | 14. Learning Based on Sensory Data: Supervised Learning I<br />Colab Practice #9. Machine learning basics |
-|        | 22.04.21 | 15. Learning Based on Sensory Data: Supervised Learning II<br />Colab Practice #10. Availability Prediction (xgboost, lightgbm) |
+|         | Date     | Contents                                                     |
+| ------- | -------- | ------------------------------------------------------------ |
+| Week 1  | 22.03.03 | 1. Introduction to Sensor Data Science                       |
+|         | 22.03.08 | 2. Sensor Data Analysis Process Overview: Mobile & Fixed Sensing Cases |
+| Week 2  | 22.03.10 | 3. Key Applications for Sensor Data Science: Context-Aware & Persuasive Computing |
+|         | 22.03.15 | 4. Data Visualization for Sensor Data Science <br />Colab Practice #1. Data Visualization - Plotly |
+| Week 3  | 22.03.17 | 5. Datasets Introduction - K-EmoPhone, K-EmoCon, CrowdSignal<br />Colab Practice #1. Data Visualization - Plotly |
+|         | 22.03.22 | 6. Sensor Data Collection<br />Colab Practice #2. Dataset Exploration |
+| Week 4  | 22.03.24 | 7. Handling Noise and Missing Values in Sensory Data<br />Colab Practice #3. Outlier Imputation |
+| Week 5  | 22.03.29 | 8.  Handling Noise and Missing Values in Sensory Data<br />Colab Practice #4. Dimension Reduction |
+|         | 22.03.31 | 9. DS Applications: Emotion & Personality <br />Colab Practice #4. Dimension Reduction |
+| Week 6  | 22.04.05 | 10. Digital Signal Processing Basics I <br />Colab Practice #5.  DSP Basics |
+|         | 22.04.07 | 11. Digital Signal Processing Basics II<br />Colab Practice #6.  DSP Filters |
+| Week 7  | 22.04.12 | 12. Feature Engineering based on Sensory Data I <br />Colab Practice #7. Feature Engineering |
+|         | 22.04.14 | 13.  Feature Engineering based on Sensory Data II  <br />Colab Practice #8. Feature Engineering |
+| Week 8  | 22.04.19 | 14. Learning Based on Sensory Data: Supervised Learning I<br />Colab Practice #9. Machine learning basics |
+|         | 22.04.21 | 15. Learning Based on Sensory Data: Supervised Learning II<br />Colab Practice #10. Availability Prediction (xgboost, lightgbm) |
+| Week 9  | 22.04.28 | Midterm                                                      |
+| Week 10 |          |                                                              |
 
 * **Assignments**
 
@@ -35,7 +37,7 @@
   | Week 6 | 4.11 Mon | HW 5 - DSP Basics                                          | :ballot_box_with_check: |
   |        | 4.15 Fri | HW 6 - DSP Filters                                         | :ballot_box_with_check: |
   | Week 7 | 4.18 Mon | HW 7 - Feature Engineering<br />HW 8 - Feature Engineering | :ballot_box_with_check: |
-  | Week 8 | 5.02 Mon | HW 9 - Deeplearning basics                                 |                         |
+  | Week 8 | 5.02 Mon | HW 9 - Deeplearning basics                                 | :ballot_box_with_check: |
 
 * **Test**
 
@@ -47,21 +49,23 @@
 
 > 김종권 교수님 /  화,목 2교시
 
-|        | Date     | Contents                                               |
-| ------ | -------- | ------------------------------------------------------ |
-| Week 1 | 22.03.03 | Introduction<br />1. Wireless Network - Protocal & MAC |
-|        | 22.03.08 | 2. Wireless Links & WLAN                               |
-| Week 2 | 22.03.10 | 3. IOT                                                 |
-|        | 22.03.15 | 4. Introduction to Deep Learning 1                     |
-| Week 3 | 22.03.17 | 5. Fundamentals of Water Electrolysis                  |
-|        | 22.03.22 | "입자물리학자로서 걸어온 길" 강연 대체                 |
-| Week 4 | 22.03.24 | 6. Introduction to Deep Learning 2                     |
-|        | 22.03.29 | 7. Convolutional Neural Network                        |
-| Week 5 | 22.03.31 | 8. Energy AI와 강화학습                                |
-|        | 22.04.05 | 9. Hydrogen Supply Chain and Cost Analysis             |
-| Week 6 | 22.04.07 | 10. IntNetwork                                         |
-|        | 22.04.12 | 11.  Network Analysis - GNN                            |
-| Week 7 | 22.04.21 | Midterm solution                                       |
+|        | Date           | Contents                                               |
+| ------ | -------------- | ------------------------------------------------------ |
+| Week 1 | 22.03.03       | Introduction<br />1. Wireless Network - Protocal & MAC |
+|        | 22.03.08       | 2. Wireless Links & WLAN                               |
+| Week 2 | 22.03.10       | 3. IOT                                                 |
+|        | 22.03.15       | 4. Introduction to Deep Learning 1                     |
+| Week 3 | 22.03.17       | 5. Fundamentals of Water Electrolysis                  |
+|        | 22.03.22       | "입자물리학자로서 걸어온 길" 강연 대체                 |
+| Week 4 | 22.03.24       | 6. Introduction to Deep Learning 2                     |
+|        | 22.03.29       | 7. Convolutional Neural Network                        |
+| Week 5 | 22.03.31       | 8. Energy AI와 강화학습                                |
+|        | 22.04.05       | 9. Hydrogen Supply Chain and Cost Analysis             |
+| Week 6 | 22.04.07       | 10. IntNetwork                                         |
+|        | 22.04.12       | 11.  Network Analysis - GNN                            |
+| Week 7 | 22.04.19       | Midterm                                                |
+| Week 8 | 22.04.21       | Midterm solution                                       |
+|        | 22.04.26~05.10 | Research Paper Presentation                            |
 
 * **Quiz & Presentation**
 
@@ -92,7 +96,8 @@
 | Week 6 | 22.04.12 | 4. Turing Machine            |
 |        | 22.04.15 | HW 4 - CFL, Turing Machine   |
 | Week 7 | 22.04.19 | 5. Turing Machine 2          |
-|        |          |                              |
+|        | 22.04.22 | Midterm                      |
+| Week 8 | 22.04.29 | Midterm solution             |
 
 * **Assignments**
 
