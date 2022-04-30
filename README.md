@@ -150,12 +150,12 @@
 
 * **Assignments**
 
-    |         | Due Date  | Assignments                                                  |                         |
-    | ------- | --------- | ------------------------------------------------------------ | ----------------------- |
-    | Week 1  | 3.10 Thur | Read - "Writing journal articles" <br />Write - What I want to achieve from this course | :ballot_box_with_check: |
-    | Week 2  | 3.17 Thur | Read - “The Baldwin Formula for writing a scientific paper and reviewing papers” <br />Write - research topic for final paper (Research proposal) | :ballot_box_with_check: |
-    | Week 4  | 3.29 Tue  | Write - Revised Proposal                                     | :ballot_box_with_check: |
-    | Week 6  | 4.14 Thur | Write - Outline<br />Read - A brief foray into style         | :ballot_box_with_check: |
-    | Week 8  | 5.3 Tue   | Write annotated bibliography                                 |                         |
-    | Week 10 | 5.17 Tue  | Write First draft of research paper                          |                         |
+    |        | Due Date  | Assignments                                                  |                         |
+    | ------ | --------- | ------------------------------------------------------------ | ----------------------- |
+    | Week 1 | 3.10 Thur | Read - "Writing journal articles" <br />Write - What I want to achieve from this course | :ballot_box_with_check: |
+    | Week 2 | 3.17 Thur | Read - “The Baldwin Formula for writing a scientific paper and reviewing papers” <br />Write - research topic for final paper (Research proposal) | :ballot_box_with_check: |
+    | Week 4 | 3.29 Tue  | Write - Revised Proposal                                     | :ballot_box_with_check: |
+    | Week 6 | 4.14 Thur | Write - Outline<br />Read - A brief foray into style         | :ballot_box_with_check: |
+    | Week 8 | 5.3 Tue   | Write annotated bibliography                                 | :ballot_box_with_check: |
+    | Week 9 | 5.17 Tue  | Write First draft of research paper                          |                         |
 
