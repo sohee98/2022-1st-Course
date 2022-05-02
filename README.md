@@ -25,7 +25,8 @@
 | Week 8  | 22.04.19 | 14. Learning Based on Sensory Data: Supervised Learning I<br />Colab Practice #9. Machine learning basics |
 |         | 22.04.21 | 15. Learning Based on Sensory Data: Supervised Learning II<br />Colab Practice #10. Availability Prediction (xgboost, lightgbm) |
 | Week 9  | 22.04.28 | Midterm                                                      |
-| Week 10 |          |                                                              |
+| Week 10 | 22.05.02 | 16. Learning Based on Sensory Data: Supervised Learning III <br />Colab Practice #11. Weather Time-series Forecasting with RNN |
+|         |          |                                                              |
 
 * **Assignments**
 
