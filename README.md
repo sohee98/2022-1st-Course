@@ -25,26 +25,28 @@
 | Week 8  | 22.04.19 | 14. Learning Based on Sensory Data: Supervised Learning I<br />Colab Practice #9. Machine learning basics |
 |         | 22.04.21 | 15. Learning Based on Sensory Data: Supervised Learning II<br />Colab Practice #10. Availability Prediction (xgboost, lightgbm) |
 | Week 9  | 22.04.28 | Midterm                                                      |
-| Week 10 | 22.05.02 | 16. Learning Based on Sensory Data: Supervised Learning III <br />Colab Practice #11. Weather Time-series Forecasting with RNN |
+| Week 10 | 22.05.03 | 16. Learning Based on Sensory Data: Supervised Learning III <br />Colab Practice #11. Weather Time-series Forecasting with RNN |
 |         |          |                                                              |
 
 * **Assignments**
 
-  |        | Due Date | Assignments                                                |                         |
-  | ------ | -------- | ---------------------------------------------------------- | ----------------------- |
-  | Week 3 | 3.21 Mon | HW 1 - Data Visualization                                  | :ballot_box_with_check: |
-  | Week 4 | 3.28 Mon | HW 2 - Dataset Exploration<br />HW 3 - Outlier Imputation  | :ballot_box_with_check: |
-  | Week 5 | 4.04 Mon | HW 4 - Dimension Reduction                                 | :ballot_box_with_check: |
-  | Week 6 | 4.11 Mon | HW 5 - DSP Basics                                          | :ballot_box_with_check: |
-  |        | 4.15 Fri | HW 6 - DSP Filters                                         | :ballot_box_with_check: |
-  | Week 7 | 4.18 Mon | HW 7 - Feature Engineering<br />HW 8 - Feature Engineering | :ballot_box_with_check: |
-  | Week 8 | 5.02 Mon | HW 9 - Deeplearning basics                                 | :ballot_box_with_check: |
+  |         | Due Date | Assignments                                                |                         |
+  | ------- | -------- | ---------------------------------------------------------- | ----------------------- |
+  | Week 3  | 3.21 Mon | HW 1 - Data Visualization                                  | :ballot_box_with_check: |
+  | Week 4  | 3.28 Mon | HW 2 - Dataset Exploration<br />HW 3 - Outlier Imputation  | :ballot_box_with_check: |
+  | Week 5  | 4.04 Mon | HW 4 - Dimension Reduction                                 | :ballot_box_with_check: |
+  | Week 6  | 4.11 Mon | HW 5 - DSP Basics                                          | :ballot_box_with_check: |
+  |         | 4.15 Fri | HW 6 - DSP Filters                                         | :ballot_box_with_check: |
+  | Week 7  | 4.18 Mon | HW 7 - Feature Engineering<br />HW 8 - Feature Engineering | :ballot_box_with_check: |
+  | Week 8  | 5.02 Mon | HW 9 - Deeplearning basics                                 | :ballot_box_with_check: |
+  | Week 10 | 5.09 Mon | HW 10 - ML-JIT-Intervention<br />HW 11 - ML-TimeSeries     | :ballot_box_with_check: |
 
-* **Test**
+* **Test & Presentation**
 
-  |         | Date      |
-  | ------- | --------- |
-  | Midterm | 4.28 Thur |
+  |              | Date       |
+  | ------------ | ---------- |
+  | Midterm      | 4.28 Thur  |
+  | Presentation | Week 14-15 |
 
 ### □ AI Applications for Energy Systems
 
@@ -82,23 +84,25 @@
 
 >  김종권 교수님 /  화 4교시, 금 11:00 am
 
-|        | Date     | Contents                     |
-| ------ | -------- | ---------------------------- |
-| Week 1 | 22.03.03 | Introduction                 |
-|        | 22.03.08 | 1. Logic                     |
-| Week 2 | 22.03.10 | HW 1 - Logic                 |
-|        | 22.03.15 | 2. Deterministic FA (DFA)    |
-| Week 3 | 22.03.18 | HW 2 - DFA                   |
-|        | 22.03.22 | 2. Nondeterministic FA (NFA) |
-| Week 4 | 22.03.25 | HW 2 - NFA                   |
-|        | 22.03.29 | 3. Regular Expressions       |
-| Week 5 | 22.04.01 | HW 3 - Regex                 |
-|        | 22.04.05 | 3. Nonregular language (CFL) |
-| Week 6 | 22.04.12 | 4. Turing Machine            |
-|        | 22.04.15 | HW 4 - CFL, Turing Machine   |
-| Week 7 | 22.04.19 | 5. Turing Machine 2          |
-|        | 22.04.22 | Midterm                      |
-| Week 8 | 22.04.29 | Midterm solution             |
+|         | Date     | Contents                     |
+| ------- | -------- | ---------------------------- |
+| Week 1  | 22.03.03 | Introduction                 |
+|         | 22.03.08 | 1. Logic                     |
+| Week 2  | 22.03.10 | HW 1 - Logic                 |
+|         | 22.03.15 | 2. Deterministic FA (DFA)    |
+| Week 3  | 22.03.18 | HW 2 - DFA                   |
+|         | 22.03.22 | 2. Nondeterministic FA (NFA) |
+| Week 4  | 22.03.25 | HW 2 - NFA                   |
+|         | 22.03.29 | 3. Regular Expressions       |
+| Week 5  | 22.04.01 | HW 3 - Regex                 |
+|         | 22.04.05 | 3. Nonregular language (CFL) |
+| Week 6  | 22.04.12 | 4. Turing Machine            |
+|         | 22.04.15 | HW 4 - CFL, Turing Machine   |
+| Week 7  | 22.04.19 | 5. Turing Machine 2          |
+|         | 22.04.22 | Midterm                      |
+| Week 8  | 22.04.29 | Midterm solution             |
+| Week 9  | 22.05.02 | 7. Complexity                |
+| Week 10 | 22.05.09 |                              |
 
 * **Assignments**
 
