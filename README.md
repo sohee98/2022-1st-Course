@@ -40,7 +40,7 @@
   | Week 7  | 4.18 Mon | HW 7 - Feature Engineering<br />HW 8 - Feature Engineering | :ballot_box_with_check: |
   | Week 8  | 5.02 Mon | HW 9 - Deeplearning basics                                 | :ballot_box_with_check: |
   | Week 10 | 5.09 Mon | HW 10 - ML-JIT-Intervention<br />HW 11 - ML-TimeSeries     | :ballot_box_with_check: |
-  | Week 11 | 5.16 Mon | HW 12 - Lab12-Emotion Recognition using Deep Learning      |                         |
+  | Week 11 | 5.16 Mon | HW 12 - Lab12-Emotion Recognition using Deep Learning      | :ballot_box_with_check: |
 
 * **Test & Presentation**
 
