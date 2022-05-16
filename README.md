@@ -53,23 +53,24 @@
 
 > 김종권 교수님 /  화,목 2교시
 
-|        | Date           | Contents                                               |
-| ------ | -------------- | ------------------------------------------------------ |
-| Week 1 | 22.03.03       | Introduction<br />1. Wireless Network - Protocal & MAC |
-|        | 22.03.08       | 2. Wireless Links & WLAN                               |
-| Week 2 | 22.03.10       | 3. IOT                                                 |
-|        | 22.03.15       | 4. Introduction to Deep Learning 1                     |
-| Week 3 | 22.03.17       | 5. Fundamentals of Water Electrolysis                  |
-|        | 22.03.22       | "입자물리학자로서 걸어온 길" 강연 대체                 |
-| Week 4 | 22.03.24       | 6. Introduction to Deep Learning 2                     |
-|        | 22.03.29       | 7. Convolutional Neural Network                        |
-| Week 5 | 22.03.31       | 8. Energy AI와 강화학습                                |
-|        | 22.04.05       | 9. Hydrogen Supply Chain and Cost Analysis             |
-| Week 6 | 22.04.07       | 10. IntNetwork                                         |
-|        | 22.04.12       | 11.  Network Analysis - GNN                            |
-| Week 7 | 22.04.19       | Midterm                                                |
-| Week 8 | 22.04.21       | Midterm solution                                       |
-|        | 22.04.26~05.10 | Research Paper Presentation                            |
+|         | Date           | Contents                                               |
+| ------- | -------------- | ------------------------------------------------------ |
+| Week 1  | 22.03.03       | Introduction<br />1. Wireless Network - Protocal & MAC |
+|         | 22.03.08       | 2. Wireless Links & WLAN                               |
+| Week 2  | 22.03.10       | 3. IOT                                                 |
+|         | 22.03.15       | 4. Introduction to Deep Learning 1                     |
+| Week 3  | 22.03.17       | 5. Fundamentals of Water Electrolysis                  |
+|         | 22.03.22       | "입자물리학자로서 걸어온 길" 강연 대체                 |
+| Week 4  | 22.03.24       | 6. Introduction to Deep Learning 2                     |
+|         | 22.03.29       | 7. Convolutional Neural Network                        |
+| Week 5  | 22.03.31       | 8. Energy AI와 강화학습                                |
+|         | 22.04.05       | 9. Hydrogen Supply Chain and Cost Analysis             |
+| Week 6  | 22.04.07       | 10. IntNetwork                                         |
+|         | 22.04.12       | 11.  Network Analysis - GNN                            |
+| Week 7  | 22.04.19       | Midterm                                                |
+| Week 8  | 22.04.21       | Midterm solution                                       |
+|         | 22.04.26~05.10 | Research Paper Presentation                            |
+| Week 11 | 22.05.17       | Literature study Topic presentation                    |
 
 * **Quiz & Presentation**
 
