@@ -153,6 +153,7 @@
 | Week 9  | 22.05.03 | Cunsultation about research paper                            |
 | Week 10 | 22.05.10 | Cunsultation about research paper                            |
 |         | 22.05.12 | Peer-editing and reviews                                     |
+| Week 11 | 22.05.17 |                                                              |
 
 * **Assignments**
 
@@ -163,5 +164,5 @@
     | Week 4 | 3.29 Tue  | Write - Revised Proposal                                     | :ballot_box_with_check: |
     | Week 6 | 4.14 Thur | Write - Outline<br />Read - A brief foray into style         | :ballot_box_with_check: |
     | Week 8 | 5.3 Tue   | Write annotated bibliography                                 | :ballot_box_with_check: |
-    | Week 9 | 5.17 Tue  | Write First draft of research paper                          |                         |
+    | Week 9 | 5.17 Tue  | Write First draft of research paper                          | :ballot_box_with_check: |
 
