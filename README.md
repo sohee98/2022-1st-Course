@@ -27,6 +27,8 @@
 | Week 9  | 22.04.28 | Midterm                                                      |
 | Week 10 | 22.05.03 | 16. Learning Based on Sensory Data: Supervised Learning III <br />Colab Practice #11. Weather Time-series Forecasting with RNN |
 | Week 11 | 22.05.10 | 17. Learning Based on Sensory Data: Sensor Data & Deep Learning <br />Colab Practice #12. Emotion Recognition with RNN |
+|         | 22.05.12 | 18. Learning Based on Sensory Data:  **Sensor Data & Deep Learning** |
+| Week 12 | 22.05.17 | 20, 21. Interactive Machine Learning for Sensing Applications |
 
 * **Assignments**
 
@@ -105,6 +107,8 @@
 | Week 8  | 22.04.29 | Midterm solution                  |
 | Week 9  | 22.05.03 | 7. Complexity                     |
 | Week 10 | 22.05.10 | 8. Complexity<br />9. Probability |
+|         | 22.05.13 | 10. Conditional Probability       |
+| Week 11 | 22.05.19 |                                   |
 
 * **Assignments**
 
@@ -147,23 +151,25 @@
 |         | 22.04.07 | Outlining and Noun Phrases                                   |
 | Week 6  | 22.04.12 | Data and results section                                     |
 |         | 22.04.14 | Hedging and boosting                                         |
-| Week 7  | 22.04.19 | Discussions, annotated bibliography                          |
+| Week 7  | 22.04.19 | **Completing Academic Articles** <br />Discussions, annotated bibliography |
 |         | 22.04.21 | Abstracts                                                    |
 | Week 8  | 22.04.26 | Quotes, paraphrasing, and summaries                          |
 |         | 22.04.28 | Quotes, paraphrasing, and summaries                          |
 | Week 9  | 22.05.03 | Cunsultation about research paper                            |
-| Week 10 | 22.05.10 | Cunsultation about research paper                            |
-|         | 22.05.12 | Peer-editing and reviews                                     |
-| Week 11 | 22.05.17 |                                                              |
+|         | 22.05.10 | Cunsultation about research paper                            |
+| Week 10 | 22.05.12 | **Advanced Article Composition**<br />Peer-editing and reviews |
+|         | 22.05.17 | Proofreading, editing, and peer-review                       |
 
 * **Assignments**
 
-    |        | Due Date  | Assignments                                                  |                         |
-    | ------ | --------- | ------------------------------------------------------------ | ----------------------- |
-    | Week 1 | 3.10 Thur | Read - "Writing journal articles" <br />Write - What I want to achieve from this course | :ballot_box_with_check: |
-    | Week 2 | 3.17 Thur | Read - “The Baldwin Formula for writing a scientific paper and reviewing papers” <br />Write - research topic for final paper (Research proposal) | :ballot_box_with_check: |
-    | Week 4 | 3.29 Tue  | Write - Revised Proposal                                     | :ballot_box_with_check: |
-    | Week 6 | 4.14 Thur | Write - Outline<br />Read - A brief foray into style         | :ballot_box_with_check: |
-    | Week 8 | 5.3 Tue   | Write annotated bibliography                                 | :ballot_box_with_check: |
-    | Week 9 | 5.17 Tue  | Write First draft of research paper                          | :ballot_box_with_check: |
+    |         | Due Date  | Assignments                                                  |                         |
+    | ------- | --------- | ------------------------------------------------------------ | ----------------------- |
+    | Week 1  | 3.10 Thur | Read - "Writing journal articles" <br />Write - What I want to achieve from this course | :ballot_box_with_check: |
+    | Week 2  | 3.17 Thur | Read - “The Baldwin Formula for writing a scientific paper and reviewing papers” <br />Write - research topic for final paper (Research proposal) | :ballot_box_with_check: |
+    | Week 4  | 3.29 Tue  | Write - Revised Proposal                                     | :ballot_box_with_check: |
+    | Week 6  | 4.14 Thur | Write - Outline<br />Read - A brief foray into style         | :ballot_box_with_check: |
+    | Week 8  | 5.3 Tue   | Write annotated bibliography                                 | :ballot_box_with_check: |
+    | Week 10 | 5.17 Tue  | Write First draft of research paper                          | :ballot_box_with_check: |
+    |         |           |                                                              |                         |
+    |         | 6.21      | Research paper                                               |                         |
 
