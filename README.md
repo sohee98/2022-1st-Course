@@ -29,6 +29,7 @@
 | Week 11 | 22.05.10 | 17. Learning Based on Sensory Data: Sensor Data & Deep Learning <br />Colab Practice #12. Emotion Recognition with RNN |
 |         | 22.05.12 | 18. Learning Based on Sensory Data:  **Sensor Data & Deep Learning** |
 | Week 12 | 22.05.17 | 20, 21. Interactive Machine Learning for Sensing Applications |
+|         | 22.05.19 | 21-2. Context-Aware Computing (Interruptibility & Productivity) |
 
 * **Assignments**
 
@@ -46,10 +47,10 @@
 
 * **Test & Presentation**
 
-  |              | Date       |
-  | ------------ | ---------- |
-  | Midterm      | 4.28 Thur  |
-  | Presentation | Week 14-15 |
+  |              | Date      |
+  | ------------ | --------- |
+  | Midterm      | 4.28 Thur |
+  | Presentation | 6.9 Thur  |
 
 ### □ AI Applications for Energy Systems
 
