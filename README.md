@@ -27,7 +27,7 @@
 | Week 9  | 22.04.28 | Midterm                                                      |
 | Week 10 | 22.05.03 | 16. Learning Based on Sensory Data: Supervised Learning III <br />Colab Practice #11. Weather Time-series Forecasting with RNN |
 | Week 11 | 22.05.10 | 17. Learning Based on Sensory Data: Sensor Data & Deep Learning <br />Colab Practice #12. Emotion Recognition with RNN |
-|         | 22.05.12 | 18. Learning Based on Sensory Data:  **Sensor Data & Deep Learning** |
+|         | 22.05.12 | 18. Learning Based on Sensory Data:  Sensor Data & Deep Learning |
 | Week 12 | 22.05.17 | 20, 21. Interactive Machine Learning for Sensing Applications |
 |         | 22.05.19 | 21-2. Context-Aware Computing (Interruptibility & Productivity) |
 
@@ -74,6 +74,7 @@
 | Week 8  | 22.04.21       | Midterm solution                                       |
 |         | 22.04.26~05.10 | Research Paper Presentation                            |
 | Week 11 | 22.05.17       | Literature study Topic presentation                    |
+|         | 22.05.19~06.14 | Literature study presentation                          |
 
 * **Quiz & Presentation**
 
@@ -109,7 +110,8 @@
 | Week 9  | 22.05.03 | 7. Complexity                     |
 | Week 10 | 22.05.10 | 8. Complexity<br />9. Probability |
 |         | 22.05.13 | 10. Conditional Probability       |
-| Week 11 | 22.05.19 |                                   |
+| Week 11 | 22.05.19 | 10. Conditional Probability       |
+|         | 22.05.20 | 10. Conditional Probability       |
 
 * **Assignments**
 
@@ -120,6 +122,7 @@
   | Week 3    | 3.25 Fri  | HW 2 - NFA                 | :ballot_box_with_check: |
   | Week 4    | 4.01 Fri  | HW 3 - Regex               | :ballot_box_with_check: |
   | Week 5, 6 | 4.15 Fri  | HW 4 - CFL, Turing Machine | :ballot_box_with_check: |
+  | Week 11   | 5.24 Tue  | HW 6 - Probability         |                         |
 
 * **Quiz**
 
@@ -131,6 +134,7 @@
   | Week 4  | 4.01 Fri  | Regex               |
   | Week 6  | 4.15 Fri  | CFL, Turing Machine |
   | Midterm | 4.22 Fri  | Midterm             |
+  | Week 11 | 5.24 Tue  | Probability         |
 
 
 
@@ -160,6 +164,7 @@
 |         | 22.05.10 | Cunsultation about research paper                            |
 | Week 10 | 22.05.12 | **Advanced Article Composition**<br />Peer-editing and reviews |
 |         | 22.05.17 | Proofreading, editing, and peer-review                       |
+| Week 11 | 22.05.19 | Research paper Peer-review                                   |
 
 * **Assignments**
 
@@ -171,6 +176,7 @@
     | Week 6  | 4.14 Thur | Write - Outline<br />Read - A brief foray into style         | :ballot_box_with_check: |
     | Week 8  | 5.3 Tue   | Write annotated bibliography                                 | :ballot_box_with_check: |
     | Week 10 | 5.17 Tue  | Write First draft of research paper                          | :ballot_box_with_check: |
-    |         |           |                                                              |                         |
-    |         | 6.21      | Research paper                                               |                         |
+    | Week 14 | 6.9 Thur  | CV/Resume                                                    |                         |
+    | Week 15 | 6.16 Thur | Email                                                        |                         |
+    | Week 15 | 6.21 Tue  | Research paper                                               |                         |
 
