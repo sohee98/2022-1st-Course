@@ -50,7 +50,7 @@
   |              | Date      |
   | ------------ | --------- |
   | Midterm      | 4.28 Thur |
-  | Presentation | 6.9 Thur  |
+  | Presentation | 6.2 Thur  |
 
 ### □ AI Applications for Energy Systems
 
@@ -112,6 +112,7 @@
 |         | 22.05.13 | 10. Conditional Probability       |
 | Week 11 | 22.05.19 | 10. Conditional Probability       |
 |         | 22.05.20 | 10. Conditional Probability       |
+| Week 12 | 22.05.24 | HW 6 - Conditional Probability    |
 
 * **Assignments**
 
