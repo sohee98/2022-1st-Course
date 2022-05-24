@@ -7,29 +7,33 @@
 > [Introduction Link](http://tiny.cc/y3wouz)
 > 노영태 교수님 / 화,목 1교시
 
-|         | Date     | Contents                                                     |
-| ------- | -------- | ------------------------------------------------------------ |
-| Week 1  | 22.03.03 | 1. Introduction to Sensor Data Science                       |
-|         | 22.03.08 | 2. Sensor Data Analysis Process Overview: Mobile & Fixed Sensing Cases |
-| Week 2  | 22.03.10 | 3. Key Applications for Sensor Data Science: Context-Aware & Persuasive Computing |
-|         | 22.03.15 | 4. Data Visualization for Sensor Data Science <br />Colab Practice #1. Data Visualization - Plotly |
-| Week 3  | 22.03.17 | 5. Datasets Introduction - K-EmoPhone, K-EmoCon, CrowdSignal<br />Colab Practice #1. Data Visualization - Plotly |
-|         | 22.03.22 | 6. Sensor Data Collection<br />Colab Practice #2. Dataset Exploration |
-| Week 4  | 22.03.24 | 7. Handling Noise and Missing Values in Sensory Data<br />Colab Practice #3. Outlier Imputation |
-| Week 5  | 22.03.29 | 8.  Handling Noise and Missing Values in Sensory Data<br />Colab Practice #4. Dimension Reduction |
-|         | 22.03.31 | 9. DS Applications: Emotion & Personality <br />Colab Practice #4. Dimension Reduction |
-| Week 6  | 22.04.05 | 10. Digital Signal Processing Basics I <br />Colab Practice #5.  DSP Basics |
-|         | 22.04.07 | 11. Digital Signal Processing Basics II<br />Colab Practice #6.  DSP Filters |
-| Week 7  | 22.04.12 | 12. Feature Engineering based on Sensory Data I <br />Colab Practice #7. Feature Engineering |
-|         | 22.04.14 | 13.  Feature Engineering based on Sensory Data II  <br />Colab Practice #8. Feature Engineering |
-| Week 8  | 22.04.19 | 14. Learning Based on Sensory Data: Supervised Learning I<br />Colab Practice #9. Machine learning basics |
-|         | 22.04.21 | 15. Learning Based on Sensory Data: Supervised Learning II<br />Colab Practice #10. Availability Prediction (xgboost, lightgbm) |
-| Week 9  | 22.04.28 | Midterm                                                      |
-| Week 10 | 22.05.03 | 16. Learning Based on Sensory Data: Supervised Learning III <br />Colab Practice #11. Weather Time-series Forecasting with RNN |
-| Week 11 | 22.05.10 | 17. Learning Based on Sensory Data: Sensor Data & Deep Learning <br />Colab Practice #12. Emotion Recognition with RNN |
-|         | 22.05.12 | 18. Learning Based on Sensory Data:  Sensor Data & Deep Learning |
-| Week 12 | 22.05.17 | 20, 21. Interactive Machine Learning for Sensing Applications |
-|         | 22.05.19 | 21-2. Context-Aware Computing (Interruptibility & Productivity) |
+|            | Date           | Contents                                                     |
+| ---------- | -------------- | ------------------------------------------------------------ |
+| Week 1     | 22.03.03       | 1. Introduction to Sensor Data Science                       |
+|            | 22.03.08       | 2. Sensor Data Analysis Process Overview: Mobile & Fixed Sensing Cases |
+| Week 2     | 22.03.10       | 3. Key Applications for Sensor Data Science: Context-Aware & Persuasive Computing |
+|            | 22.03.15       | 4. Data Visualization for Sensor Data Science <br />Colab Practice #1. Data Visualization - Plotly |
+| Week 3     | 22.03.17       | 5. Datasets Introduction - K-EmoPhone, K-EmoCon, CrowdSignal<br />Colab Practice #1. Data Visualization - Plotly |
+|            | 22.03.22       | 6. Sensor Data Collection<br />Colab Practice #2. Dataset Exploration |
+| Week 4     | 22.03.24       | 7. Handling Noise and Missing Values in Sensory Data<br />Colab Practice #3. Outlier Imputation |
+| Week 5     | 22.03.29       | 8.  Handling Noise and Missing Values in Sensory Data<br />Colab Practice #4. Dimension Reduction |
+|            | 22.03.31       | 9. DS Applications: Emotion & Personality <br />Colab Practice #4. Dimension Reduction |
+| Week 6     | 22.04.05       | 10. Digital Signal Processing Basics I <br />Colab Practice #5.  DSP Basics |
+|            | 22.04.07       | 11. Digital Signal Processing Basics II<br />Colab Practice #6.  DSP Filters |
+| Week 7     | 22.04.12       | 12. Feature Engineering based on Sensory Data I <br />Colab Practice #7. Feature Engineering |
+|            | 22.04.14       | 13.  Feature Engineering based on Sensory Data II  <br />Colab Practice #8. Feature Engineering |
+| Week 8     | 22.04.19       | 14. Learning Based on Sensory Data: Supervised Learning I<br />Colab Practice #9. Machine learning basics |
+|            | 22.04.21       | 15. Learning Based on Sensory Data: Supervised Learning II<br />Colab Practice #10. Availability Prediction (xgboost, lightgbm) |
+| Week 9     | 22.04.28       | Midterm                                                      |
+| Week 10    | 22.05.03       | 16. Learning Based on Sensory Data: Supervised Learning III <br />Colab Practice #11. Weather Time-series Forecasting with RNN |
+| Week 11    | 22.05.10       | 17. Learning Based on Sensory Data: Sensor Data & Deep Learning <br />Colab Practice #12. Emotion Recognition with RNN |
+|            | 22.05.12       | 18. Learning Based on Sensory Data:  Sensor Data & Deep Learning |
+| Week 12    | 22.05.17       | 20, 21. Interactive Machine Learning for Sensing Applications |
+|            | 22.05.19       | 21-2. Context-Aware Computing (Interruptibility & Productivity) |
+| Week 13    | 22.05.24       | 22. Interpretable Machine Learning for Sensing Applications  |
+|            | 22.05.26       | 23. SDS Applications: Activity Recognition & Condition-based Maintenance |
+| Week 14,15 | 22.05.31~06.09 | Paper presentation                                           |
+| Week 16    | 22.06.21       | Final                                                        |
 
 * **Assignments**
 
@@ -51,6 +55,7 @@
   | ------------ | --------- |
   | Midterm      | 4.28 Thur |
   | Presentation | 6.2 Thur  |
+  | Final        | 6.21 Tue  |
 
 ### □ AI Applications for Energy Systems
 
@@ -166,6 +171,7 @@
 | Week 10 | 22.05.12 | **Advanced Article Composition**<br />Peer-editing and reviews |
 |         | 22.05.17 | Proofreading, editing, and peer-review                       |
 | Week 11 | 22.05.19 | Research paper Peer-review                                   |
+|         | 22.05.24 | Grant proposal                                               |
 
 * **Assignments**
 
