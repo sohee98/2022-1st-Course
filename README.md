@@ -95,29 +95,30 @@
 
 >  김종권 교수님 /  화 4교시, 금 11:00 am
 
-|         | Date     | Contents                          |
-| ------- | -------- | --------------------------------- |
-| Week 1  | 22.03.03 | Introduction                      |
-|         | 22.03.08 | 1. Logic                          |
-| Week 2  | 22.03.10 | HW 1 - Logic                      |
-|         | 22.03.15 | 2. Deterministic FA (DFA)         |
-| Week 3  | 22.03.18 | HW 2 - DFA                        |
-|         | 22.03.22 | 2. Nondeterministic FA (NFA)      |
-| Week 4  | 22.03.25 | HW 2 - NFA                        |
-|         | 22.03.29 | 3. Regular Expressions            |
-| Week 5  | 22.04.01 | HW 3 - Regex                      |
-|         | 22.04.05 | 3. Nonregular language (CFL)      |
-| Week 6  | 22.04.12 | 4. Turing Machine                 |
-|         | 22.04.15 | HW 4 - CFL, Turing Machine        |
-| Week 7  | 22.04.19 | 5. Turing Machine 2               |
-|         | 22.04.22 | Midterm                           |
-| Week 8  | 22.04.29 | Midterm solution                  |
-| Week 9  | 22.05.03 | 7. Complexity                     |
-| Week 10 | 22.05.10 | 8. Complexity<br />9. Probability |
-|         | 22.05.13 | 10. Conditional Probability       |
-| Week 11 | 22.05.19 | 10. Conditional Probability       |
-|         | 22.05.20 | 10. Conditional Probability       |
-| Week 12 | 22.05.24 | HW 6 - Conditional Probability    |
+|         | Date     | Contents                            |
+| ------- | -------- | ----------------------------------- |
+| Week 1  | 22.03.03 | Introduction                        |
+|         | 22.03.08 | 1. Logic                            |
+| Week 2  | 22.03.10 | HW 1 - Logic                        |
+|         | 22.03.15 | 2. Deterministic FA (DFA)           |
+| Week 3  | 22.03.18 | HW 2 - DFA                          |
+|         | 22.03.22 | 2. Nondeterministic FA (NFA)        |
+| Week 4  | 22.03.25 | HW 2 - NFA                          |
+|         | 22.03.29 | 3. Regular Expressions              |
+| Week 5  | 22.04.01 | HW 3 - Regex                        |
+|         | 22.04.05 | 3. Nonregular language (CFL)        |
+| Week 6  | 22.04.12 | 4. Turing Machine                   |
+|         | 22.04.15 | HW 4 - CFL, Turing Machine          |
+| Week 7  | 22.04.19 | 5. Turing Machine 2                 |
+|         | 22.04.22 | Midterm                             |
+| Week 8  | 22.04.29 | Midterm solution                    |
+| Week 9  | 22.05.03 | 7. Complexity                       |
+| Week 10 | 22.05.10 | 8. Complexity<br />9. Probability   |
+|         | 22.05.13 | 10. Conditional Probability         |
+| Week 11 | 22.05.19 | 10. Conditional Probability         |
+|         | 22.05.20 | 10. Conditional Probability         |
+| Week 12 | 22.05.24 | HW 6 - Conditional Probability      |
+|         | 22.05.27 | 11. Discrete Random Variables (DRV) |
 
 * **Assignments**
 
@@ -172,6 +173,7 @@
 |         | 22.05.17 | Proofreading, editing, and peer-review                       |
 | Week 11 | 22.05.19 | Research paper Peer-review                                   |
 |         | 22.05.24 | Grant proposal                                               |
+| Week 12 | 22.05.26 | Grant proposal                                               |
 
 * **Assignments**
 
