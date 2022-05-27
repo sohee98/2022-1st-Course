@@ -32,7 +32,7 @@
 |            | 22.05.19       | 21-2. Context-Aware Computing (Interruptibility & Productivity) |
 | Week 13    | 22.05.24       | 22. Interpretable Machine Learning for Sensing Applications  |
 |            | 22.05.26       | 23. SDS Applications: Activity Recognition & Condition-based Maintenance |
-| Week 14,15 | 22.05.31~06.09 | Paper presentation                                           |
+| Week 14,15 | 22.05.31~06.09 | Paper presentation (06.02)                                   |
 | Week 16    | 22.06.21       | Final                                                        |
 
 * **Assignments**
