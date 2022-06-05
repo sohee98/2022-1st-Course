@@ -33,7 +33,7 @@
 | Week 13    | 22.05.24       | 22. Interpretable Machine Learning for Sensing Applications  |
 |            | 22.05.26       | 23. SDS Applications: Activity Recognition & Condition-based Maintenance |
 | Week 14,15 | 22.05.31~06.09 | Paper presentation (06.02)                                   |
-| Week 16    | 22.06.21       | Final                                                        |
+| Week 16    | 22.06.22       | Final                                                        |
 
 * **Assignments**
 
@@ -55,7 +55,7 @@
   | ------------ | --------- |
   | Midterm      | 4.28 Thur |
   | Presentation | 6.2 Thur  |
-  | Final        | 6.21 Tue  |
+  | Final        | 6.22 Wed  |
 
 ### □ AI Applications for Energy Systems
 
@@ -119,6 +119,8 @@
 |         | 22.05.20 | 10. Conditional Probability         |
 | Week 12 | 22.05.24 | HW 6 - Conditional Probability      |
 |         | 22.05.27 | 11. Discrete Random Variables (DRV) |
+| Week 13 | 22.05.31 | 12. MGF                             |
+|         | 22.06.03 | HW 7 - DRV                          |
 
 * **Assignments**
 
@@ -129,19 +131,22 @@
   | Week 3    | 3.25 Fri  | HW 2 - NFA                 | :ballot_box_with_check: |
   | Week 4    | 4.01 Fri  | HW 3 - Regex               | :ballot_box_with_check: |
   | Week 5, 6 | 4.15 Fri  | HW 4 - CFL, Turing Machine | :ballot_box_with_check: |
-  | Week 11   | 5.24 Tue  | HW 6 - Probability         |                         |
+  | Week 11   | 5.24 Tue  | HW 6 - Probability         | :ballot_box_with_check: |
+  | Week 13   | 6.3 Fri   | HW 7 - DRV                 |                         |
 
 * **Quiz**
 
-  |         | Date      | Contents            |
-  | ------- | --------- | ------------------- |
-  | Week 1  | 3.10 Thur | Logic               |
-  | Week 2  | 3.18 Fri  | DFA                 |
-  | Week 3  | 3.25 Fri  | NFA                 |
-  | Week 4  | 4.01 Fri  | Regex               |
-  | Week 6  | 4.15 Fri  | CFL, Turing Machine |
-  | Midterm | 4.22 Fri  | Midterm             |
-  | Week 11 | 5.24 Tue  | Probability         |
+  |             | Date      | Contents            |
+  | ----------- | --------- | ------------------- |
+  | Week 1      | 3.10 Thur | Logic               |
+  | Week 2      | 3.18 Fri  | DFA                 |
+  | Week 3      | 3.25 Fri  | NFA                 |
+  | Week 4      | 4.01 Fri  | Regex               |
+  | Week 6      | 4.15 Fri  | CFL, Turing Machine |
+  | **Midterm** | 4.22 Fri  | **Midterm**         |
+  | Week 11     | 5.24 Tue  | Probability         |
+  | Week 13     | 6.3 Fri   | Basic RV            |
+  | **Final**   | 6.16 Fri  | **Final**           |
 
 
 
@@ -174,6 +179,9 @@
 | Week 11 | 22.05.19 | Research paper Peer-review                                   |
 |         | 22.05.24 | Grant proposal                                               |
 | Week 12 | 22.05.26 | Grant proposal                                               |
+|         | 22.05.31 | Academic CV, resume                                          |
+| Week 13 | 22.06.02 | Academic CV, resume                                          |
+|         | 22.06.07 |                                                              |
 
 * **Assignments**
 
