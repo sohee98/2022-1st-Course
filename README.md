@@ -181,7 +181,9 @@
 | Week 12 | 22.05.26 | Grant proposal                                               |
 |         | 22.05.31 | Academic CV, resume                                          |
 | Week 13 | 22.06.02 | Academic CV, resume                                          |
-|         | 22.06.07 |                                                              |
+|         | 22.06.07 | Email communication                                          |
+| Week 14 | 22.06.09 |                                                              |
+|         | 22.06.14 |                                                              |
 
 * **Assignments**
 
@@ -195,5 +197,7 @@
     | Week 10 | 5.17 Tue  | Write First draft of research paper                          | :ballot_box_with_check: |
     | Week 14 | 6.9 Thur  | CV/Resume                                                    |                         |
     | Week 15 | 6.16 Thur | Email                                                        |                         |
-    | Week 15 | 6.21 Tue  | Research paper                                               |                         |
+    | Week 15 | 6.22 Wed  | Final Research paper                                         |                         |
+    
+    
 
