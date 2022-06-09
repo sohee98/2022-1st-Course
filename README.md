@@ -182,7 +182,7 @@
 |         | 22.05.31 | Academic CV, resume                                          |
 | Week 13 | 22.06.02 | Academic CV, resume                                          |
 |         | 22.06.07 | Email communication                                          |
-| Week 14 | 22.06.09 |                                                              |
+| Week 14 | 22.06.09 | Email                                                        |
 |         | 22.06.14 |                                                              |
 
 * **Assignments**
