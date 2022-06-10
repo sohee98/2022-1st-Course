@@ -77,9 +77,9 @@
 |         | 22.04.12       | 11.  Network Analysis - GNN                            |
 | Week 7  | 22.04.19       | Midterm                                                |
 | Week 8  | 22.04.21       | Midterm solution                                       |
-|         | 22.04.26~05.10 | Research Paper Presentation                            |
+|         | 22.04.26~05.10 | Research Paper Presentation (4.26)                     |
 | Week 11 | 22.05.17       | Literature study Topic presentation                    |
-|         | 22.05.19~06.14 | Literature study presentation                          |
+|         | 22.05.19~06.14 | Literature study presentation (6.14)                   |
 
 * **Quiz & Presentation**
 
@@ -119,8 +119,10 @@
 |         | 22.05.20 | 10. Conditional Probability         |
 | Week 12 | 22.05.24 | HW 6 - Conditional Probability      |
 |         | 22.05.27 | 11. Discrete Random Variables (DRV) |
-| Week 13 | 22.05.31 | 12. MGF                             |
+| Week 13 | 22.05.31 | 12. MGF & Bounds                    |
 |         | 22.06.03 | HW 7 - DRV                          |
+| Week 14 | 22.06.07 | 12. MGF & Bounds                    |
+|         | 22.06.10 | 12. MGF & Bounds                    |
 
 * **Assignments**
 
@@ -146,7 +148,7 @@
   | **Midterm** | 4.22 Fri  | **Midterm**         |
   | Week 11     | 5.24 Tue  | Probability         |
   | Week 13     | 6.3 Fri   | Basic RV            |
-  | **Final**   | 6.16 Fri  | **Final**           |
+  | **Final**   | 6.17 Fri  | **Final**           |
 
 
 
@@ -195,7 +197,7 @@
     | Week 6  | 4.14 Thur | Write - Outline<br />Read - A brief foray into style         | :ballot_box_with_check: |
     | Week 8  | 5.3 Tue   | Write annotated bibliography                                 | :ballot_box_with_check: |
     | Week 10 | 5.17 Tue  | Write First draft of research paper                          | :ballot_box_with_check: |
-    | Week 14 | 6.9 Thur  | CV/Resume                                                    |                         |
+    | Week 14 | 6.9 Thur  | CV/Resume                                                    | :ballot_box_with_check: |
     | Week 15 | 6.16 Thur | Email                                                        |                         |
     | Week 15 | 6.22 Wed  | Final Research paper                                         |                         |
     
