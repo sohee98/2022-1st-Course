@@ -24,7 +24,7 @@
 |            | 22.04.14       | 13.  Feature Engineering based on Sensory Data II  <br />Colab Practice #8. Feature Engineering |
 | Week 8     | 22.04.19       | 14. Learning Based on Sensory Data: Supervised Learning I<br />Colab Practice #9. Machine learning basics |
 |            | 22.04.21       | 15. Learning Based on Sensory Data: Supervised Learning II<br />Colab Practice #10. Availability Prediction (xgboost, lightgbm) |
-| Week 9     | 22.04.28       | Midterm                                                      |
+| Week 9     | 22.04.28       | **Midterm**                                                  |
 | Week 10    | 22.05.03       | 16. Learning Based on Sensory Data: Supervised Learning III <br />Colab Practice #11. Weather Time-series Forecasting with RNN |
 | Week 11    | 22.05.10       | 17. Learning Based on Sensory Data: Sensor Data & Deep Learning <br />Colab Practice #12. Emotion Recognition with RNN |
 |            | 22.05.12       | 18. Learning Based on Sensory Data:  Sensor Data & Deep Learning |
@@ -33,7 +33,7 @@
 | Week 13    | 22.05.24       | 22. Interpretable Machine Learning for Sensing Applications  |
 |            | 22.05.26       | 23. SDS Applications: Activity Recognition & Condition-based Maintenance |
 | Week 14,15 | 22.05.31~06.09 | Paper presentation (06.02)                                   |
-| Week 16    | 22.06.22       | Final                                                        |
+| Week 16    | 22.06.22       | **Final**                                                    |
 
 * **Assignments**
 
@@ -75,7 +75,7 @@
 |         | 22.04.05       | 9. Hydrogen Supply Chain and Cost Analysis             |
 | Week 6  | 22.04.07       | 10. IntNetwork                                         |
 |         | 22.04.12       | 11.  Network Analysis - GNN                            |
-| Week 7  | 22.04.19       | Midterm                                                |
+| Week 7  | 22.04.19       | **Midterm**                                            |
 | Week 8  | 22.04.21       | Midterm solution                                       |
 |         | 22.04.26~05.10 | Research Paper Presentation (4.26)                     |
 | Week 11 | 22.05.17       | Literature study Topic presentation                    |
@@ -83,11 +83,12 @@
 
 * **Quiz & Presentation**
 
-  |                     | Date     |
-  | ------------------- | -------- |
-  | Midterm Quiz        | 4.19 Tue |
-  | Research Paper PT   | 4.26 Tue |
-  | Literature study PT | 6.14 Tue |
+  |                         | Date     |
+  | ----------------------- | -------- |
+  | Midterm Quiz            | 4.19 Tue |
+  | Research Paper PT       | 4.26 Tue |
+  | Literature study PT     | 6.14 Tue |
+  | Literature study Report | 6.20 Mon |
 
 
 
@@ -110,7 +111,7 @@
 | Week 6  | 22.04.12 | 4. Turing Machine                   |
 |         | 22.04.15 | HW 4 - CFL, Turing Machine          |
 | Week 7  | 22.04.19 | 5. Turing Machine 2                 |
-|         | 22.04.22 | Midterm                             |
+|         | 22.04.22 | **Midterm**                         |
 | Week 8  | 22.04.29 | Midterm solution                    |
 | Week 9  | 22.05.03 | 7. Complexity                       |
 | Week 10 | 22.05.10 | 8. Complexity<br />9. Probability   |
@@ -123,6 +124,7 @@
 |         | 22.06.03 | HW 7 - DRV                          |
 | Week 14 | 22.06.07 | 12. MGF & Bounds                    |
 |         | 22.06.10 | 12. MGF & Bounds                    |
+| Week 15 | 22.06.17 | **Final**                           |
 
 * **Assignments**
 
@@ -181,11 +183,12 @@
 | Week 11 | 22.05.19 | Research paper Peer-review                                   |
 |         | 22.05.24 | Grant proposal                                               |
 | Week 12 | 22.05.26 | Grant proposal                                               |
-|         | 22.05.31 | Academic CV, resume                                          |
+|         | 22.05.31 | **Communication and Technical Writing** <br />Academic CV, resume |
 | Week 13 | 22.06.02 | Academic CV, resume                                          |
 |         | 22.06.07 | Email communication                                          |
-| Week 14 | 22.06.09 | Email                                                        |
-|         | 22.06.14 |                                                              |
+| Week 14 | 22.06.09 | Email communication                                          |
+|         | 22.06.14 | Resume / CV assignment notes                                 |
+|         | 22.06.16 |                                                              |
 
 * **Assignments**
 
@@ -198,7 +201,7 @@
     | Week 8  | 5.3 Tue   | Write annotated bibliography                                 | :ballot_box_with_check: |
     | Week 10 | 5.17 Tue  | Write First draft of research paper                          | :ballot_box_with_check: |
     | Week 14 | 6.9 Thur  | CV/Resume                                                    | :ballot_box_with_check: |
-    | Week 15 | 6.16 Thur | Email                                                        |                         |
+    | Week 15 | 6.16 Thur | Email                                                        | :ballot_box_with_check: |
     | Week 15 | 6.22 Wed  | Final Research paper                                         |                         |
     
     
