@@ -45,7 +45,7 @@
   | Week 6  | 4.11 Mon | HW 5 - DSP Basics                                          | :ballot_box_with_check: |
   |         | 4.15 Fri | HW 6 - DSP Filters                                         | :ballot_box_with_check: |
   | Week 7  | 4.18 Mon | HW 7 - Feature Engineering<br />HW 8 - Feature Engineering | :ballot_box_with_check: |
-  | Week 8  | 5.02 Mon | HW 9 - Deeplearning basics                                 | :ballot_box_with_check: |
+  | Week 8  | 5.02 Mon | HW 9 - Deep learning basics                                | :ballot_box_with_check: |
   | Week 10 | 5.09 Mon | HW 10 - ML-JIT-Intervention<br />HW 11 - ML-TimeSeries     | :ballot_box_with_check: |
   | Week 11 | 5.16 Mon | HW 12 - Lab12-Emotion Recognition using Deep Learning      | :ballot_box_with_check: |
 
@@ -188,7 +188,7 @@
 |         | 22.06.07 | Email communication                                          |
 | Week 14 | 22.06.09 | Email communication                                          |
 |         | 22.06.14 | Resume / CV assignment notes                                 |
-|         | 22.06.16 |                                                              |
+| Week 15 | 22.06.16 | Presentations, communication                                 |
 
 * **Assignments**
 
