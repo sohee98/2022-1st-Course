@@ -136,7 +136,7 @@
   | Week 4    | 4.01 Fri  | HW 3 - Regex               | :ballot_box_with_check: |
   | Week 5, 6 | 4.15 Fri  | HW 4 - CFL, Turing Machine | :ballot_box_with_check: |
   | Week 11   | 5.24 Tue  | HW 6 - Probability         | :ballot_box_with_check: |
-  | Week 13   | 6.3 Fri   | HW 7 - DRV                 |                         |
+  | Week 13   | 6.3 Fri   | HW 7 - DRV                 | :ballot_box_with_check: |
 
 * **Quiz**
 
@@ -202,7 +202,7 @@
     | Week 10 | 5.17 Tue  | Write First draft of research paper                          | :ballot_box_with_check: |
     | Week 14 | 6.9 Thur  | CV/Resume                                                    | :ballot_box_with_check: |
     | Week 15 | 6.16 Thur | Email                                                        | :ballot_box_with_check: |
-    | Week 15 | 6.22 Wed  | Final Research paper                                         |                         |
+    | Week 15 | 6.22 Wed  | Final Research paper                                         | :ballot_box_with_check: |
     
     
 
